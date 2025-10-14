@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 0 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 1 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 0 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -24,13 +24,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 0
-- **Easy**: 0
+- **Total Problems Solved**: 1
+- **Easy**: 1
 - **Medium**: 0  
 - **Hard**: 0
-- **Topics Mastered**: 0/15
+- **Topics Started**: 1/15
 
 ### Recent Activity
+- ✅ **First Problem Solved!** - October 14, 2024
+- 🔥 Added: 3349. Adjacent Increasing Subarrays Detection I (LeetCode Easy)
 - 🎉 Repository initialized - October 13, 2024
 - 📁 Created structured folder organization
 - 📝 Added comprehensive topic documentation
