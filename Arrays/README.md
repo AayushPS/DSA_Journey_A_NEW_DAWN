@@ -16,6 +16,12 @@ Arrays are one of the fundamental data structures in computer science. This sect
 - **Rotate Array** - Cyclic rotations and reversals
 - **Search & Sort** - Binary search, merge sort variations
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [3349. Adjacent Increasing Subarrays Detection I](./AdjacentIncreasingSubarrays.java) | LeetCode | Easy | Check if two adjacent subarrays of length k are strictly increasing |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Time complexity optimization
