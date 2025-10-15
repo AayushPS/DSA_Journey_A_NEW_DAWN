@@ -21,6 +21,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [3349. Adjacent Increasing Subarrays Detection I](./AdjacentIncreasingSubarrays.java) | LeetCode | Easy | Check if two adjacent subarrays of length k are strictly increasing |
+| [3350. Adjacent Increasing Subarrays Detection II](./AdjacentIncreasingSubarraysII.java) | LeetCode | Medium | Find the maximum k for which two adjacent subarrays of length k are strictly increasing |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
