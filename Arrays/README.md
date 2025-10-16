@@ -23,6 +23,14 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3349. Adjacent Increasing Subarrays Detection I](./AdjacentIncreasingSubarrays.java) | LeetCode | Easy | Check if two adjacent subarrays of length k are strictly increasing |
 | [3350. Adjacent Increasing Subarrays Detection II](./AdjacentIncreasingSubarraysII.java) | LeetCode | Medium | Find the maximum k for which two adjacent subarrays of length k are strictly increasing |
 
+### 2598. Smallest Missing Non-negative Integer After Operations
+- **Platform:** LeetCode
+- **Difficulty:** Medium  
+- **Concepts:** Arrays, Modulo Arithmetic, Hashing  
+- **File:** [SmallestMissingNonNegativeIntegerAfterOperations.java](./SmallestMissingNonNegativeIntegerAfterOperations.java)
+
+---
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Time complexity optimization
