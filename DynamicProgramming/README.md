@@ -16,6 +16,12 @@ Dynamic programming optimization technique. This section covers:
 - **Maximum Subarray** - Kadane's algorithm and variants
 - **Stock Trading** - Buy/sell optimization problems
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [1911. Maximum Alternating Subsequence Sum](./MaximumAlternatingSubsequenceSum.java) | LeetCode | Medium | Find maximum alternating sum of any subsequence with comprehensive DP approaches |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Bottom-up and top-down DP approaches

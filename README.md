@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 0 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 1 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 0 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -24,13 +24,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 3
+- **Total Problems Solved**: 4
 - **Easy**: 1
-- **Medium**: 2  
+- **Medium**: 3  
 - **Hard**: 0
-- **Topics Started**: 1/15
+- **Topics Started**: 2/15
 
 ### Recent Activity
+- 🔥 **First DP Problem!** - October 16, 2024
+- 🔥 Added: 1911. Maximum Alternating Subsequence Sum (LeetCode Medium - Dynamic Programming)
 - 🎆 **Advanced Medium Problem!** - October 16, 2024
 - 🔥 Added: 2598. Smallest Missing Non-negative Integer After Operations (LeetCode Medium)
 - 🚀 **First Medium Problem!** - October 15, 2024
