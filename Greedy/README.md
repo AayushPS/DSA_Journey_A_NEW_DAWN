@@ -16,6 +16,12 @@ Greedy algorithm design paradigm. This section covers:
 - **Gas Station** - Circular route problems
 - **Jump Game** - Greedy traversal problems
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [3397. Maximum Number of Distinct Elements After Operations](./MaximumNumberOfDistinctElementsAfterOperations.java) | LeetCode | Medium | Maximize distinct elements by adding values in range [-k, k] using greedy sorting approach |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Sorting-based greedy approaches
