@@ -7,7 +7,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 3 |
-| [🔤 Strings](./Strings) | String manipulation and pattern matching | 0 |
+| [🔤 Strings](./Strings) | String manipulation and pattern matching | 1 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
@@ -24,13 +24,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 5
+- **Total Problems Solved**: 6
 - **Easy**: 1
-- **Medium**: 4  
+- **Medium**: 5  
 - **Hard**: 0
-- **Topics Started**: 3/15
+- **Topics Started**: 4/15
 
 ### Recent Activity
+- 🔤 **First Strings Problem!** - October 19, 2024
+- 🔥 Added: 1625. Lexicographically Smallest String After Applying Operations (LeetCode Medium - Strings)
 - 💰 **First Greedy Problem!** - October 18, 2024
 - 🔥 Added: 3397. Maximum Number of Distinct Elements After Operations (LeetCode Medium - Greedy)
 - 🔥 **First DP Problem!** - October 16, 2024

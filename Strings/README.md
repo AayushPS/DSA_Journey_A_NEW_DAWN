@@ -16,6 +16,12 @@ String manipulation and processing algorithms. This section covers:
 - **String Compression** - Run-length encoding
 - **Regular Expressions** - Pattern validation
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [1625. Lexicographically Smallest String After Applying Operations](./LexicographicallySmallestStringAfterApplyingOperations.java) | LeetCode | Medium | Find lexicographically smallest string using BFS with rotation and digit addition operations |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Efficient string manipulation using StringBuilder
