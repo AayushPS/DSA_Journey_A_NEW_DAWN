@@ -7,7 +7,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 3 |
-| [🔤 Strings](./Strings) | String manipulation and pattern matching | 1 |
+| [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
@@ -24,13 +24,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 6
-- **Easy**: 1
+- **Total Problems Solved**: 7
+- **Easy**: 2
 - **Medium**: 5  
 - **Hard**: 0
 - **Topics Started**: 4/15
 
 ### Recent Activity
+- ✨ **Second Easy Problem!** - October 20, 2024
+- 🔥 Added: 2011. Final Value of Variable After Performing Operations (LeetCode Easy - Strings)
 - 🔤 **First Strings Problem!** - October 19, 2024
 - 🔥 Added: 1625. Lexicographically Smallest String After Applying Operations (LeetCode Medium - Strings)
 - 💰 **First Greedy Problem!** - October 18, 2024
