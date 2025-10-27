@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 3 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 4 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 8
+- **Total Problems Solved**: 9
 - **Easy**: 2
-- **Medium**: 6  
+- **Medium**: 7  
 - **Hard**: 0
 - **Topics Started**: 5/16
 
 ### Recent Activity
+- 📊 **Fourth Arrays Problem!** - October 27, 2024
+- 🔥 Added: 2125. Number of Laser Beams in a Bank (LeetCode Medium - Arrays)
 - 🎭 **First OOPs Design Problem!** - October 27, 2024
 - 🔥 Added: 2043. Simple Bank System (LeetCode Medium - OOPs Design & Simulation)
 - ✨ **Second Easy Problem!** - October 20, 2024
