@@ -20,17 +20,20 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
+| [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 0 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 7
+- **Total Problems Solved**: 8
 - **Easy**: 2
-- **Medium**: 5  
+- **Medium**: 6  
 - **Hard**: 0
-- **Topics Started**: 4/15
+- **Topics Started**: 5/16
 
 ### Recent Activity
+- 🎭 **First OOPs Design Problem!** - October 27, 2024
+- 🔥 Added: 2043. Simple Bank System (LeetCode Medium - OOPs Design & Simulation)
 - ✨ **Second Easy Problem!** - October 20, 2024
 - 🔥 Added: 2011. Final Value of Variable After Performing Operations (LeetCode Easy - Strings)
 - 🔤 **First Strings Problem!** - October 19, 2024
