@@ -21,6 +21,7 @@ Dynamic programming optimization technique. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [1911. Maximum Alternating Subsequence Sum](./MaximumAlternatingSubsequenceSum.java) | LeetCode | Medium | Find maximum alternating sum of any subsequence with comprehensive DP approaches |
+| [300. Longest Increasing Subsequence](./LongestIncreasingSubsequence.java) | LeetCode | Medium | Find the length of the longest strictly increasing subsequence using DP |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
