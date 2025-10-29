@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 2 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 3 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 1 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,34 +25,36 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 10
+- **Total Problems Solved**: 11
 - **Easy**: 2
-- **Medium**: 8  
+- **Medium**: 9
 - **Hard**: 0
 - **Topics Started**: 5/16
 
 ### Recent Activity
-- 💡 **Second DP Problem!** - October 29, 2024
+- 💡 **Second DP Problem!** - October 29, 2025
+- 🔥 Added: 646. Maximum Length of Pair Chain (LeetCode Medium - Dynamic Programming)
+- 💡 **Second DP Problem!** - October 29, 2025
 - 🔥 Added: 300. Longest Increasing Subsequence (LeetCode Medium - Dynamic Programming)
-- 📊 **Fourth Arrays Problem!** - October 27, 2024
+- 📊 **Fourth Arrays Problem!** - October 27, 2025
 - 🔥 Added: 2125. Number of Laser Beams in a Bank (LeetCode Medium - Arrays)
-- 🎭 **First OOPs Design Problem!** - October 27, 2024
+- 🎭 **First OOPs Design Problem!** - October 27, 2025
 - 🔥 Added: 2043. Simple Bank System (LeetCode Medium - OOPs Design & Simulation)
-- ✨ **Second Easy Problem!** - October 20, 2024
+- ✨ **Second Easy Problem!** - October 20, 2025
 - 🔥 Added: 2011. Final Value of Variable After Performing Operations (LeetCode Easy - Strings)
-- 🔤 **First Strings Problem!** - October 19, 2024
+- 🔤 **First Strings Problem!** - October 19, 2025
 - 🔥 Added: 1625. Lexicographically Smallest String After Applying Operations (LeetCode Medium - Strings)
-- 💰 **First Greedy Problem!** - October 18, 2024
+- 💰 **First Greedy Problem!** - October 18, 2025
 - 🔥 Added: 3397. Maximum Number of Distinct Elements After Operations (LeetCode Medium - Greedy)
-- 🔥 **First DP Problem!** - October 16, 2024
+- 🔥 **First DP Problem!** - October 16, 2025
 - 🔥 Added: 1911. Maximum Alternating Subsequence Sum (LeetCode Medium - Dynamic Programming)
-- 🎆 **Advanced Medium Problem!** - October 16, 2024
+- 🎆 **Advanced Medium Problem!** - October 16, 2025
 - 🔥 Added: 2598. Smallest Missing Non-negative Integer After Operations (LeetCode Medium)
-- 🚀 **First Medium Problem!** - October 15, 2024
+- 🚀 **First Medium Problem!** - October 15, 2025
 - 🔥 Added: 3350. Adjacent Increasing Subarrays Detection II (LeetCode Medium)
-- ✅ **First Problem Solved!** - October 14, 2024
+- ✅ **First Problem Solved!** - October 14, 2025
 - 🔥 Added: 3349. Adjacent Increasing Subarrays Detection I (LeetCode Easy)
-- 🎉 Repository initialized - October 13, 2024
+- 🎉 Repository initialized - October 13, 2025
 - 📁 Created structured folder organization
 - 📝 Added comprehensive topic documentation
 
