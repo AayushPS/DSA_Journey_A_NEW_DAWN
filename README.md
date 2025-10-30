@@ -16,7 +16,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 3 |
-| [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 1 |
+| [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
@@ -25,15 +25,17 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 11
+- **Total Problems Solved**: 12
 - **Easy**: 2
 - **Medium**: 9
-- **Hard**: 0
+- **Hard**: 1
 - **Topics Started**: 5/16
 
 ### Recent Activity
-- 💡 **Second DP Problem!** - October 29, 2025
-- 🔥 Added: 646. Maximum Length of Pair Chain (LeetCode Medium - Dynamic Programming)
+- 💰 **Second Greedy Problem!** - October 30, 2025
+- 🔥 Added: 3397. Minimum Number of Increments on Subarrays to Form a Target Array (LeetCode Hard - Greedy)
+- 📊 **Third DP Problem!** - October 29, 2025
+- ✅ Added: 646. Maximum Length of Pair Chain (LeetCode Medium - Dynamic Programming)
 - 💡 **Second DP Problem!** - October 29, 2025
 - 🔥 Added: 300. Longest Increasing Subsequence (LeetCode Medium - Dynamic Programming)
 - 📊 **Fourth Arrays Problem!** - October 27, 2025

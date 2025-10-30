@@ -21,6 +21,7 @@ Greedy algorithm design paradigm. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [3397. Maximum Number of Distinct Elements After Operations](./MaximumNumberOfDistinctElementsAfterOperations.java) | LeetCode | Medium | Maximize distinct elements by adding values in range [-k, k] using greedy sorting approach |
+| [1526. Minimum Number of Increments on Subarrays to Form a Target Array](./MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.java) | LeetCode | Hard | Compute difference-based increments between consecutive elements. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
