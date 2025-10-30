@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 3 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 4 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -27,11 +27,13 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 - **Total Problems Solved**: 12
 - **Easy**: 2
-- **Medium**: 9
+- **Medium**: 10
 - **Hard**: 1
 - **Topics Started**: 5/16
 
 ### Recent Activity
+- 🎆 **Forth DP Problem** - October 30, 2025
+- 🔥 Added: 1048. Longest String Chain (LeetCode Medium - Dynamic Programming)
 - 💰 **Second Greedy Problem!** - October 30, 2025
 - 🔥 Added: 3397. Minimum Number of Increments on Subarrays to Form a Target Array (LeetCode Hard - Greedy)
 - 📊 **Third DP Problem!** - October 29, 2025
@@ -62,13 +64,17 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 🎯 Learning Goals
 
-### Phase 1: Foundation (Weeks 1-4)
-- [ ] Master basic array and string manipulations
-- [ ] Complete fundamental LinkedList operations
-- [ ] Understand stack and queue applications
-- [ ] Build strong recursion fundamentals
+### Do daily Leetcode POTD
 
-### Phase 2: Core Data Structures (Weeks 5-8)
+### Phase 1: Rebild Foundation of DP(Weeks 1-4)
+- [ ] Master DP Concepts
+- [ ] Practice questions of 1D DP
+- [ ] Practice questions of 2D DP
+- [ ] Practice questions of String Based DP
+- [ ] Practice questions of grid Based DP
+- [ ] Practice questions of game Strategy
+
+### Phase 2: Rebild Foundation of GraphWeeks 5-8)
 - [ ] Binary tree traversals and operations
 - [ ] BST implementation and validations
 - [ ] Heap operations and priority queues

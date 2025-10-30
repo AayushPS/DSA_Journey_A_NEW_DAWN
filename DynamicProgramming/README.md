@@ -23,6 +23,7 @@ Dynamic programming optimization technique. This section covers:
 | [1911. Maximum Alternating Subsequence Sum](./MaximumAlternatingSubsequenceSum.java) | LeetCode | Medium | Find maximum alternating sum of any subsequence with comprehensive DP approaches |
 | [300. Longest Increasing Subsequence](./LongestIncreasingSubsequence.java) | LeetCode | Medium | Find the length of the longest strictly increasing subsequence using DP |
 | [646. Maximum Length of Pair Chain](./MaximumLengthOfPairChain.java) | LeetCode | Medium | Find the length of the longest chain of pairs in increasing order using DP |
+| [1048. Longest String Chain](./LongestStringChain.java) | LeetCode | Medium | LIS-style DP based on word length and predecessor relation |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
