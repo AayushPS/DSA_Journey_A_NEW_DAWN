@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 4 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 5 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 12
+- **Total Problems Solved**: 13
 - **Easy**: 2
 - **Medium**: 10
-- **Hard**: 1
+- **Hard**: 2
 - **Topics Started**: 5/16
 
 ### Recent Activity
+- 💡 **First 3d-DP Problem** - October 30, 2025
+- 🔥 Added: 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons (LeetCode Hard - Dynamic Programming)
 - 🎆 **Forth DP Problem** - October 30, 2025
 - 🔥 Added: 1048. Longest String Chain (LeetCode Medium - Dynamic Programming)
 - 💰 **Second Greedy Problem!** - October 30, 2025
