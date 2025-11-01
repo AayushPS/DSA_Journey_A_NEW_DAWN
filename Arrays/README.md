@@ -24,6 +24,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3350. Adjacent Increasing Subarrays Detection II](./AdjacentIncreasingSubarraysII.java) | LeetCode | Medium | Find the maximum k for which two adjacent subarrays of length k are strictly increasing |
 | [2598. Smallest Missing Non-negative Integer After Operations](./SmallestMissingNonNegativeIntegerAfterOperations.java) | LeetCode | Medium | Find the maximum possible MEX after adding/subtracting value from array elements |
 | [2125. Number of Laser Beams in a Bank](./NumberOfLaserBeamsInABank.java) | LeetCode | Medium | Count total laser beams between security devices across non-empty rows |
+| [3289. The Two Sneaky Numbers of Digitville](./TheTwoSneakyNumbersofDigitville.java) | LeetCode | Easy | Find the two numbers that appear twice in an array containing integers from 0 to n-1 |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

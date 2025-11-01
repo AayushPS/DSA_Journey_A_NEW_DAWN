@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 4 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 5 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 13
-- **Easy**: 2
+- **Total Problems Solved**: 14
+- **Easy**: 3
 - **Medium**: 10
 - **Hard**: 2
 - **Topics Started**: 5/16
 
 ### Recent Activity
+- 📊 **Fifth Arrays Problem!** - November 1, 2025
+- 🔥 Added: 3289. The Two Sneaky Numbers of Digitville (LeetCode Easy - Arrays)
 - 💡 **First 3d-DP Problem** - October 30, 2025
 - 🔥 Added: 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons (LeetCode Hard - Dynamic Programming)
 - 🎆 **Forth DP Problem** - October 30, 2025
