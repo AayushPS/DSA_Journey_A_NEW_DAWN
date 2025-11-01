@@ -16,6 +16,12 @@ Linked list data structures and their variations. This section covers:
 - **Palindrome Check** - Linked list palindrome validation
 - **Remove Duplicates** - Maintaining uniqueness in lists
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [3217. Delete Nodes From Linked List Present in Array](./ DeleteNodesFromLinkedListPresentInArray.java) | LeetCode | Medium | Remove all nodes from the linked list whose values exist in the given array |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Proper node creation and management

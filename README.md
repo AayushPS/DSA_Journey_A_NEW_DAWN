@@ -8,7 +8,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 |-------|-------------|----------------|
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 6 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
-| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 0 |
+| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 1 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 15
+- **Total Problems Solved**: 16
 - **Easy**: 3
-- **Medium**: 11
+- **Medium**: 12
 - **Hard**: 2
-- **Topics Started**: 5/16
+- **Topics Started**: 6/16
 
 ### Recent Activity
+- 🔗 **First LinkedList Problem!** - November 1, 2025
+- 🔥 Added: 3217. Delete Nodes From Linked List Present in Array (LeetCode Medium - LinkedList)
 - 📊 **Sixth Arrays Problem!** - November 1, 2025
 - 🔥 Added: 1706. Where Will the Ball Fall (LeetCode Medium - Arrays)
 - 📊 **Fifth Arrays Problem!** - November 1, 2025
