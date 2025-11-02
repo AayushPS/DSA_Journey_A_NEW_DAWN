@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 6 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 7 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 1 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 16
+- **Total Problems Solved**: 17
 - **Easy**: 3
-- **Medium**: 12
+- **Medium**: 13
 - **Hard**: 2
 - **Topics Started**: 6/16
 
 ### Recent Activity
+- 📊 **Seventh Arrays Problem!** - November 2, 2025
+- 🔥 Added: 2257. Count Unguarded Cells in the Grid (LeetCode Medium - Arrays)
 - 🔗 **First LinkedList Problem!** - November 1, 2025
 - 🔥 Added: 3217. Delete Nodes From Linked List Present in Array (LeetCode Medium - LinkedList)
 - 📊 **Sixth Arrays Problem!** - November 1, 2025

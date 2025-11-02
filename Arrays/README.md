@@ -26,6 +26,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [2125. Number of Laser Beams in a Bank](./NumberOfLaserBeamsInABank.java) | LeetCode | Medium | Count total laser beams between security devices across non-empty rows |
 | [3289. The Two Sneaky Numbers of Digitville](./TheTwoSneakyNumbersofDigitville.java) | LeetCode | Easy | Find the two numbers that appear twice in an array containing integers from 0 to n-1 |
 | [1706. Where Will the Ball Fall](./WhereWillTheBallFall.java) | LeetCode | Medium | Simulate balls falling through a grid with diagonal boards, returning final column or -1 if stuck |
+| [2257. Count Unguarded Cells in the Grid](./CountUnguardedCellsInTheGrid.java) | LeetCode | Medium | Count unoccupied cells not visible by any guard in the four cardinal directions, considering walls |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
