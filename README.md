@@ -80,31 +80,41 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ### Do daily Leetcode POTD
 
-### Phase 1: Rebild Foundation of DP(Weeks 1-4)
-- [ ] Master DP Concepts
-- [ ] Practice questions of 1D DP
-- [ ] Practice questions of 2D DP
-- [ ] Practice questions of String Based DP
-- [ ] Practice questions of grid Based DP
-- [ ] Practice questions of game Strategy
+### Re-Exploring My DSA Path 🚀
 
-### Phase 2: Rebild Foundation of GraphWeeks 5-8)
-- [ ] Binary tree traversals and operations
-- [ ] BST implementation and validations
-- [ ] Heap operations and priority queues
-- [ ] Graph traversal algorithms (DFS, BFS)
+I've decided to revisit and deepen my journey through Data Structures & Algorithms. This time, I'm starting afresh—with new perspective and intent—to master concepts in a structured, phase-wise manner. 
 
-### Phase 3: Advanced Techniques (Weeks 9-12)
-- [ ] Dynamic Programming patterns
-- [ ] Greedy algorithm applications
-- [ ] Advanced graph algorithms
-- [ ] Optimization techniques
+#### **Current Focus: Just Beginning My Dynamic Programming Journey**
+- [x] Got through the basics and the core ideas of DP
+- [x] Finished my first major DP challenge: [2926. Maximum Balanced Subsequence Sum](./MaximumBalancedSubsequenceSum.java)
+- [ ] Still to solidify more patterns (many are new for me!)
+- [ ] Planning to explore 2D/3D variations, string and grid problems, and more
+- [ ] Advanced topics, optimizations, and state reductions coming up
+- [ ] Lining up a period of intensive DP coding practice to master the field
 
-### Phase 4: Specialized Topics (Weeks 13-16)
-- [ ] Bit manipulation mastery
-- [ ] Sliding window and two-pointer techniques
-- [ ] Prefix sum applications
-- [ ] System design problems
+*This is just a decent start—lots of exciting DP and optimization concepts to visit next! Big coding grind ahead!*
+
+*Progress: ◉◉◎◎ — Some solid growth in DP already, but much more depth to reach!*
+
+#### **Next Up: Revisiting the World of Graphs**
+- [ ] Refresh fundamentals—graph traversals (DFS & BFS)
+- [ ] Practice shortest paths, connected components
+- [ ] Explore trees in detail: traversals, BSTs, heap ops
+- [ ] Key interview applications
+
+#### **Future Steps: Advanced Tree Topics & Beyond**
+- [ ] Master Fenwick Trees (Binary Indexed Trees), Segment Trees
+- [ ] Advanced tricks: persistent data structures, union-find
+- [ ] Dive into even more specialized topics (trie, suffix trees etc.)
+
+#### **Phase on the Horizon: Specialized & Real-World Applications**
+- [ ] Bit manipulation and tricky operations
+- [ ] Sliding window, two pointer techniques, prefix/suffix sums
+- [ ] Greedy, optimization, and advanced graph techniques
+- [ ] System/architecture-oriented problem solving
+
+---
+*This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ## 🚀 Setup Instructions
 
