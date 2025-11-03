@@ -25,6 +25,7 @@ Dynamic programming optimization technique. This section covers:
 | [646. Maximum Length of Pair Chain](./MaximumLengthOfPairChain.java) | LeetCode | Medium | Find the length of the longest chain of pairs in increasing order using DP |
 | [1048. Longest String Chain](./LongestStringChain.java) | LeetCode | Medium | LIS-style DP based on word length and predecessor relation |
 | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java) | LeetCode | Hard | Prefix Sum optimized 2D DP Approach to find the states |
+| [2926. Maximum Balanced Subsequence Sum](./MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

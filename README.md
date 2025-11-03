@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 5 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 6 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 18
+- **Total Problems Solved**: 19
 - **Easy**: 3
 - **Medium**: 14
-- **Hard**: 2
+- **Hard**: 3
 - **Topics Started**: 6/16
 
 ### Recent Activity
+- 💡 **Sixth DP Problem!** - November 3, 2025
+- 🔥 Added: 2926. Maximum Balanced Subsequence Sum (LeetCode Hard - Dynamic Programming)
 - 📊 **Eighth Arrays Problem!** - November 3, 2025
 - 🔥 Added: 1578. Minimum Time to Make Rope Colorful (LeetCode Medium - Arrays)
 - 📊 **Seventh Arrays Problem!** - November 2, 2025
