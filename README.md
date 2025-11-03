@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 7 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 8 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 1 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 17
+- **Total Problems Solved**: 18
 - **Easy**: 3
-- **Medium**: 13
+- **Medium**: 14
 - **Hard**: 2
 - **Topics Started**: 6/16
 
 ### Recent Activity
+- 📊 **Eighth Arrays Problem!** - November 3, 2025
+- 🔥 Added: 1578. Minimum Time to Make Rope Colorful (LeetCode Medium - Arrays)
 - 📊 **Seventh Arrays Problem!** - November 2, 2025
 - 🔥 Added: 2257. Count Unguarded Cells in the Grid (LeetCode Medium - Arrays)
 - 🔗 **First LinkedList Problem!** - November 1, 2025
