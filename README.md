@@ -20,18 +20,20 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
-| [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 |
+| [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 0 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 19
-- **Easy**: 3
+- **Total Problems Solved**: 20
+- **Easy**: 4
 - **Medium**: 14
 - **Hard**: 3
 - **Topics Started**: 6/16
 
 ### Recent Activity
+- 🎭 **Second OOPs Design Problem!** - November 4, 2025
+- 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
 - 💡 **Sixth DP Problem!** - November 3, 2025
 - 🔥 Added: 2926. Maximum Balanced Subsequence Sum (LeetCode Hard - Dynamic Programming)
 - 📊 **Eighth Arrays Problem!** - November 3, 2025

@@ -22,6 +22,7 @@ Object-oriented design and simulation problems. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [2043. Simple Bank System](./SimpleBankSystem.java) | LeetCode | Medium | Implement a banking system with deposit, withdraw, and transfer operations |
+| [3318. Find X-Sum of All K-Long Subarrays I](./MaximumBalancedSubsequenceSum.java) | LeetCode | Easy | Calculate x-sum for all k-length subarrays using sliding window with frequency counting and priority queue |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
