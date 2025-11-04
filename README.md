@@ -32,6 +32,8 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - **Topics Started**: 6/16
 
 ### Recent Activity
+- 💡 **Learned Patience Sorting Method for LIS!** - November 4, 2025
+- 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
 - 🎭 **Second OOPs Design Problem!** - November 4, 2025
 - 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
 - 💡 **Sixth DP Problem!** - November 3, 2025
