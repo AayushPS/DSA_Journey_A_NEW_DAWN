@@ -21,17 +21,19 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
-| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 0 |
+| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 20
-- **Easy**: 4
+- **Total Problems Solved**: 21
+- **Easy**: 5
 - **Medium**: 14
 - **Hard**: 3
-- **Topics Started**: 6/16
+- **Topics Started**: 7/16
 
 ### Recent Activity
+- 🎯 **First Miscellaneous Problem!** - November 4, 2025
+- 🔥 Added: 2169. Count Operations to Obtain Zero (LeetCode Easy - Miscellaneous)
 - 💡 **Learned Patience Sorting Method for LIS!** - November 4, 2025
 - 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
 - 🎭 **Second OOPs Design Problem!** - November 4, 2025
