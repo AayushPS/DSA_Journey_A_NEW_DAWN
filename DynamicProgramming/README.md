@@ -20,13 +20,13 @@ Dynamic programming optimization technique. This section covers:
 
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
-| [1911. Maximum Alternating Subsequence Sum](./MaximumAlternatingSubsequenceSum.java) | LeetCode | Medium | Find maximum alternating sum of any subsequence with comprehensive DP approaches |
-| [300. Longest Increasing Subsequence](./LIS and its variants/LongestIncreasingSubsequence.java) | LeetCode | Medium | Find the length of the longest strictly increasing subsequence using DP |
-| [646. Maximum Length of Pair Chain](./LIS and its variants/MaximumLengthOfPairChain.java) | LeetCode | Medium | Find the length of the longest chain of pairs in increasing order using DP |
-| [1048. Longest String Chain](./LIS and its variants/LongestStringChain.java) | LeetCode | Medium | LIS-style DP based on word length and predecessor relation |
-| [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./LIS and its variants/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java) | LeetCode | Hard | Prefix Sum optimized 2D DP Approach to find the states |
-| [2926. Maximum Balanced Subsequence Sum](./LIS and its variants/MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
-| [368. Largest Divisible Subset](./LIS and its variants/LargestDivisibleSubset.java) | LeetCode | Medium | Find the largest subset where every pair of elements is divisible using DP and sorting |
+| [1911. Maximum Alternating Subsequence Sum](./LIS_AND_VARIANTS/MaximumAlternatingSubsequenceSum.java) | LeetCode | Medium | Find maximum alternating sum of any subsequence with comprehensive DP approaches |
+| [300. Longest Increasing Subsequence](./LIS_AND_VARIANTS/LongestIncreasingSubsequence.java) | LeetCode | Medium | Find the length of the longest strictly increasing subsequence using DP |
+| [646. Maximum Length of Pair Chain](./LIS_AND_VARIANTS/MaximumLengthOfPairChain.java) | LeetCode | Medium | Find the length of the longest chain of pairs in increasing order using DP |
+| [1048. Longest String Chain](./LIS_AND_VARIANTS/LongestStringChain.java) | LeetCode | Medium | LIS-style DP based on word length and predecessor relation |
+| [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./LIS_AND_VARIANTS/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java) | LeetCode | Hard | Prefix Sum optimized 2D DP Approach to find the states |
+| [2926. Maximum Balanced Subsequence Sum](./LIS_AND_VARIANTS/MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
+| [368. Largest Divisible Subset](./LIS_AND_VARIANTS/LargestDivisibleSubset.java) | LeetCode | Medium | Find the largest subset where every pair of elements is divisible using DP and sorting |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
