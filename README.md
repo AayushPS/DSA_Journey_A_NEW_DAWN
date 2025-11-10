@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 6 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 7 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,13 +25,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 21
+- **Total Problems Solved**: 22
 - **Easy**: 5
-- **Medium**: 14
+- **Medium**: 15
 - **Hard**: 3
 - **Topics Started**: 7/16
 
 ### Recent Activity
+- 💡 **Seventh DP Problem!** - November 4, 2025
+- 🔥 Added: 368. Largest Divisible Subset (LeetCode Medium - Dynamic Programming)
 - 🎯 **First Miscellaneous Problem!** - November 4, 2025
 - 🔥 Added: 2169. Count Operations to Obtain Zero (LeetCode Easy - Miscellaneous)
 - 💡 **Learned Patience Sorting Method for LIS!** - November 4, 2025
