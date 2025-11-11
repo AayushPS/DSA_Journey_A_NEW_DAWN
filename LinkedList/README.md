@@ -20,7 +20,11 @@ Linked list data structures and their variations. This section covers:
 
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
-| [3217. Delete Nodes From Linked List Present in Array](./ DeleteNodesFromLinkedListPresentInArray.java) | LeetCode | Medium | Remove all nodes from the linked list whose values exist in the given array |
+| [3217. Delete Nodes From Linked List Present in Array](./DeleteNodesFromLinkedListPresentInArray.java) | LeetCode | Medium | Remove all nodes from the linked list whose values exist in the given array |
+| [1669. Merge In Between Linked Lists](./MergeInBetweenLinkedLists.java) | LeetCode | Medium | Remove the nodes from index `a` to `b` (inclusive) from `list1` and insert the entire `list2` in their place. |
+| [234. Palindrome Linked List](./PalindromeLinkedList.java) | LeetCode | Easy | Determine whether Singly connected Linked List is a palindrome |
+| [143. Reorder List](./ReorderList.java) | LeetCode | Medium | Reorder the list as follows: L0 → Ln → L1 → Ln-1 → L2 → Ln-2 → … |
+| [1721. Swapping Nodes in a Linked List](./SwappingNodesInALinkedList.java) | LeetCode | Medium | Swap the values of:the kᵗʰ node from the beginning and the kᵗʰ node from the end |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
