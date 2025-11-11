@@ -28,6 +28,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [1706. Where Will the Ball Fall](./WhereWillTheBallFall.java) | LeetCode | Medium | Simulate balls falling through a grid with diagonal boards, returning final column or -1 if stuck |
 | [2257. Count Unguarded Cells in the Grid](./CountUnguardedCellsInTheGrid.java) | LeetCode | Medium | Count unoccupied cells not visible by any guard in the four cardinal directions, considering walls |
 | [1578. Minimum Time to Make Rope Colorful](./MinimumTimeToMakeRopeColorful.java) | LeetCode | Medium | Find minimum time to remove adjacent balloons of the same color using greedy approach |
+| [3542. Minimum Operations to Convert All Elements to Zero](./MinimumOperationsToConvertAllElementsToZero.java) | LeetCode | Medium | Obtain minimum number of operations required to make all elements in an array equal to 0 by certain operations |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

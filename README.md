@@ -8,13 +8,13 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 |-------|-------------|----------------|
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 8 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
-| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 1 |
+| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 5 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 0 |
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
-| [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 0 |
+| [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 7 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
@@ -25,18 +25,25 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 22
-- **Easy**: 5
-- **Medium**: 15
+- **Total Problems Solved**: 31
+- **Algorithms**: 4
+- **Easy**: 6
+- **Medium**: 19
 - **Hard**: 3
-- **Topics Started**: 7/16
+- **Topics Started**: 8/16
 
 ### Recent Activity
-- 💡 **Seventh DP Problem!** - November 4, 2025
+- 🎭 **Nineth Arrays Problem** - November 11, 2025
+- 🔥 Added: 3542. Minimum Operations to Convert All Elements to Zero 
+- 📊 **Coded 4 important graph algorithms in DAA class** - November 11, 2025
+- 💡 Added: Djkstra, DSU, Krushkal, Prims algorithms in java
+- 🎯 **Done 4 LinkedList Problems of Targeted Companies in college** - November 11, 2025
+- 🔗 Added: 1669. Merge In Between Linked Lists , 143. Reorder List , 1721. Swapping Nodes in a Linked List (Leetcode Medium - Linked List) , 234. Palindrome Linked List (Leetcode Easy- Linked List)
+- 💡 **Seventh DP Problem!** - November 10, 2025
 - 🔥 Added: 368. Largest Divisible Subset (LeetCode Medium - Dynamic Programming)
-- 🎯 **First Miscellaneous Problem!** - November 4, 2025
+- 🎯 **First Miscellaneous Problem!** - November 9, 2025
 - 🔥 Added: 2169. Count Operations to Obtain Zero (LeetCode Easy - Miscellaneous)
-- 💡 **Learned Patience Sorting Method for LIS!** - November 4, 2025
+- 💡 **Learned Patience Sorting Method for LIS!** - November 8, 2025
 - 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
 - 🎭 **Second OOPs Design Problem!** - November 4, 2025
 - 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
@@ -105,8 +112,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *Progress: ◉◉◎◎ — Some solid growth in DP already, but much more depth to reach!*
 
 #### **Next Up: Revisiting the World of Graphs**
-- [ ] Refresh fundamentals—graph traversals (DFS & BFS)
-- [ ] Practice shortest paths, connected components
+- [x] Refresh fundamentals—graph traversals (DFS & BFS)
+- [x] Practice shortest paths, connected components
 - [ ] Explore trees in detail: traversals, BSTs, heap ops
 - [ ] Key interview applications
 
