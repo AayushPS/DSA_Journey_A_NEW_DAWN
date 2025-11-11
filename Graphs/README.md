@@ -7,7 +7,7 @@ Graph data structure and graph algorithms. This section covers:
 - Shortest path algorithms
 - Cycle detection and topological sorting
 
-##Algorithms Coded
+## Algorithms Coded
 | Algorithm | Summary |
 |---------|---------|
 | [Djkstra](./Djkstra.java) | To find minimum cost to reach all or certain nodes from a given source node |
