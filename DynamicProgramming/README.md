@@ -27,7 +27,7 @@ Dynamic programming optimization technique. This section covers:
 | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./LIS_AND_VARIANTS/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java) | LeetCode | Hard | Prefix Sum optimized 2D DP Approach to find the states |
 | [2926. Maximum Balanced Subsequence Sum](./LIS_AND_VARIANTS/MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
 | [368. Largest Divisible Subset](./LIS_AND_VARIANTS/LargestDivisibleSubset.java) | LeetCode | Medium | Find the largest subset where every pair of elements is divisible using DP and sorting |
-| [474. Ones and Zeroes](./OnesAndZeroes.java) | LeetCode | Medium | Return the size of the largest subset of `strs` such that the total number of 0’s is at most `m`, and the total number of 1’s is at most `n` |
+| [474. Ones and Zeroes](./OnesAndZeroes.java) | LeetCode | Medium | Return the size of the largest subset of String Array such that the total number of 0’s is at most `m`, and the total number of 1’s is at most `n` |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
