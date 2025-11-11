@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 7 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 8 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,14 +25,16 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 31
+- **Total Problems Solved**: 32
 - **Algorithms**: 4
 - **Easy**: 6
-- **Medium**: 19
+- **Medium**: 20
 - **Hard**: 3
 - **Topics Started**: 8/16
 
 ### Recent Activity
+- 💰 **Eighth Dynamic Programming Prblem** - November 12, 2025
+- 🔥 Added: 474. Ones and Zeroes
 - 🎭 **Nineth Arrays Problem** - November 11, 2025
 - 🔥 Added: 3542. Minimum Operations to Convert All Elements to Zero 
 - 📊 **Coded 4 important graph algorithms in DAA class** - November 11, 2025
