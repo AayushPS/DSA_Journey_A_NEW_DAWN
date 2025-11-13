@@ -8,7 +8,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 |-------|-------------|----------------|
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 9 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
-| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 5 |
+| [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 0 |
@@ -16,7 +16,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 8 |
-| [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 2 |
+| [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
@@ -25,14 +25,18 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 32
+- **Total Problems Solved**: 35
 - **Algorithms**: 4
-- **Easy**: 6
-- **Medium**: 20
+- **Easy**: 7
+- **Medium**: 22
 - **Hard**: 3
 - **Topics Started**: 8/16
 
 ### Recent Activity
+- 🔗 **Two Linked List Problems Solved in class** - November 12, 2025
+- 🚀 Added: 1472. Design Browser History (LeetCode Medium - LinkedList) , 160. Intersection of Two Linked Lists (LeetCode Easy - LinkedList)
+- 📊 **Third Greedy Problem** - November 12, 2025
+- 🚀 Added: 2654. Minimum Number of Operations to Make All Array Elements Equal to 1
 - 💰 **Eighth Dynamic Programming Prblem** - November 12, 2025
 - 🔥 Added: 474. Ones and Zeroes
 - 🎭 **Nineth Arrays Problem** - November 11, 2025

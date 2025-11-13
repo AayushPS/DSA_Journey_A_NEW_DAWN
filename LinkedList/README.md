@@ -25,6 +25,8 @@ Linked list data structures and their variations. This section covers:
 | [234. Palindrome Linked List](./PalindromeLinkedList.java) | LeetCode | Easy | Determine whether Singly connected Linked List is a palindrome |
 | [143. Reorder List](./ReorderList.java) | LeetCode | Medium | Reorder the list as follows: L0 → Ln → L1 → Ln-1 → L2 → Ln-2 → … |
 | [1721. Swapping Nodes in a Linked List](./SwappingNodesInALinkedList.java) | LeetCode | Medium | Swap the values of:the kᵗʰ node from the beginning and the kᵗʰ node from the end |
+| [1472. Design Browser History](./DesignBrowserHistory.java) | LeetCode | Medium | Implementing a simple Browser History system. |
+| [160. Intersection of Two Linked Lists](./InsertionofTwoLinkedList.java) | LeetCode | Easy | Return the node where the two lists intersect. |  
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
