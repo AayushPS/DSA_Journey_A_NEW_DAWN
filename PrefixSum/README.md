@@ -16,6 +16,12 @@ Prefix sum technique and cumulative computation patterns. This section covers:
 - **Running Sum** - Cumulative sum transformations
 - **Equilibrium Index** - Prefix and suffix sum comparison
 
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [2536. Increment Submatrices by One](./IncrementSubmatricesByOne.java) | LeetCode | Medium | Process queries to increment cells in submatrices using 2D difference array and prefix sum techniques |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Space-efficient prefix sum construction

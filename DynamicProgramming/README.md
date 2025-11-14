@@ -28,6 +28,7 @@ Dynamic programming optimization technique. This section covers:
 | [2926. Maximum Balanced Subsequence Sum](./LIS_AND_VARIANTS/MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
 | [368. Largest Divisible Subset](./LIS_AND_VARIANTS/LargestDivisibleSubset.java) | LeetCode | Medium | Find the largest subset where every pair of elements is divisible using DP and sorting |
 | [474. Ones and Zeroes](./OnesAndZeroes.java) | LeetCode | Medium | Return the size of the largest subset of String Array such that the total number of 0’s is at most `m`, and the total number of 1’s is at most `n` |
+| [1143. Longest Common Subsequence + Print the LCS](./Longest_Common_SubSequence_AND_VARIANTS/LCS.java) | LeetCode | Medium | Computes the Length of actual Longest Common Subsequence and provides the string |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

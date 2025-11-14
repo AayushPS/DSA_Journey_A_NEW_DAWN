@@ -15,29 +15,33 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 8 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 9 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
-| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 0 |
+| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 1 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 35
+- **Total Problems Solved**: 37
 - **Algorithms**: 4
 - **Easy**: 7
-- **Medium**: 22
+- **Medium**: 24
 - **Hard**: 3
-- **Topics Started**: 8/16
+- **Topics Started**: 9/16
 
 ### Recent Activity
+- 💰 **Ninth Dynamic Programmig Problem - First in LCS**n- November 14, 2025
+- 💡 Added: 1143. Longest Common Subsequence + Print the LCS
+- ✅ **First PrefixSum Problem** - November 14, 2025
+- 📝 Added: 2536. Increment Submatrices by One
 - 🔗 **Two Linked List Problems Solved in class** - November 12, 2025
 - 🚀 Added: 1472. Design Browser History (LeetCode Medium - LinkedList) , 160. Intersection of Two Linked Lists (LeetCode Easy - LinkedList)
 - 📊 **Third Greedy Problem** - November 12, 2025
 - 🚀 Added: 2654. Minimum Number of Operations to Make All Array Elements Equal to 1
-- 💰 **Eighth Dynamic Programming Prblem** - November 12, 2025
+- 💰 **Eighth Dynamic Programming Problem** - November 12, 2025
 - 🔥 Added: 474. Ones and Zeroes
 - 🎭 **Nineth Arrays Problem** - November 11, 2025
 - 🔥 Added: 3542. Minimum Operations to Convert All Elements to Zero 
@@ -45,7 +49,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - 💡 Added: Djkstra, DSU, Krushkal, Prims algorithms in java
 - 🎯 **Done 4 LinkedList Problems of Targeted Companies in college** - November 11, 2025
 - 🔗 Added: 1669. Merge In Between Linked Lists , 143. Reorder List , 1721. Swapping Nodes in a Linked List (Leetcode Medium - Linked List) , 234. Palindrome Linked List (Leetcode Easy- Linked List)
-- 💡 **Seventh DP Problem!** - November 10, 2025
+- 💡 **Seventh DP Problem! - LIS learning Completed** - November 10, 2025
 - 🔥 Added: 368. Largest Divisible Subset (LeetCode Medium - Dynamic Programming)
 - 🎯 **First Miscellaneous Problem!** - November 9, 2025
 - 🔥 Added: 2169. Count Operations to Obtain Zero (LeetCode Easy - Miscellaneous)
@@ -53,7 +57,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
 - 🎭 **Second OOPs Design Problem!** - November 4, 2025
 - 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
-- 💡 **Sixth DP Problem!** - November 3, 2025
+- c **Sixth DP Problem!** - November 3, 2025
 - 🔥 Added: 2926. Maximum Balanced Subsequence Sum (LeetCode Hard - Dynamic Programming)
 - 📊 **Eighth Arrays Problem!** - November 3, 2025
 - 🔥 Added: 1578. Minimum Time to Make Rope Colorful (LeetCode Medium - Arrays)
