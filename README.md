@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 10 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 11 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,14 +25,16 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 38
+- **Total Problems Solved**: 39
 - **Algorithms**: 4
 - **Easy**: 7
 - **Medium**: 25
-- **Hard**: 3
+- **Hard**: 4
 - **Topics Started**: 9/16
 
 ### Recent Activity
+- 📝 **Eleventh Dynamic Programming Problem** - November 15, 2025
+- ✨ Added: 1092. Shortest Common Supersequence (Return the string)
 - 🎯 **Tenth Dynamic Programming Problem** - November 15, 2025
 - 🚀 Added: Shortest Common Supersequence (Length Only)
 - 💰 **Ninth Dynamic Programmig Problem - First in LCS** - November 14, 2025
