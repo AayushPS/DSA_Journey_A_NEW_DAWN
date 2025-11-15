@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 9 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 10 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -25,15 +25,17 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 37
+- **Total Problems Solved**: 38
 - **Algorithms**: 4
 - **Easy**: 7
-- **Medium**: 24
+- **Medium**: 25
 - **Hard**: 3
 - **Topics Started**: 9/16
 
 ### Recent Activity
-- 💰 **Ninth Dynamic Programmig Problem - First in LCS**n- November 14, 2025
+- 🎯 **Tenth Dynamic Programming Problem** - November 15, 2025
+- 🚀 Added: Shortest Common Supersequence (Length Only)
+- 💰 **Ninth Dynamic Programmig Problem - First in LCS** - November 14, 2025
 - 💡 Added: 1143. Longest Common Subsequence + Print the LCS
 - ✅ **First PrefixSum Problem** - November 14, 2025
 - 📝 Added: 2536. Increment Submatrices by One
@@ -111,9 +113,7 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 
 #### **Current Focus: Just Beginning My Dynamic Programming Journey**
 - [x] Got through the basics and the core ideas of DP
-- [x] Finished my first major DP challenge: [2926. Maximum Balanced Subsequence Sum](./MaximumBalancedSubsequenceSum.java)
-- [ ] Still to solidify more patterns (many are new for me!)
-- [ ] Planning to explore 2D/3D variations, string and grid problems, and more
+- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/LCS.java)
 - [ ] Advanced topics, optimizations, and state reductions coming up
 - [ ] Lining up a period of intensive DP coding practice to master the field
 
@@ -122,8 +122,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *Progress: ◉◉◎◎ — Some solid growth in DP already, but much more depth to reach!*
 
 #### **Next Up: Revisiting the World of Graphs**
-- [x] Refresh fundamentals—graph traversals (DFS & BFS)
-- [x] Practice shortest paths, connected components
+- [x] Refresh fundamentals—graph traversals and manipulations [Basic Algorithms](./Graphs)
+- [x] Practice shortest paths, connected components 
 - [ ] Explore trees in detail: traversals, BSTs, heap ops
 - [ ] Key interview applications
 
