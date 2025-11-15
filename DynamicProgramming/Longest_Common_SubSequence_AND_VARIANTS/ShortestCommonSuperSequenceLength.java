@@ -140,7 +140,7 @@ This is the cleanest and fastest method.
 ───────────────────────────────────────────────────────────────
 */
 
-class Solution {
+class ShortestCommonSupersequenceLength {
 
     public static int minSuperSeq(String s1, String s2) {
         return s1.length() + s2.length() - lcs(s1, s2);
