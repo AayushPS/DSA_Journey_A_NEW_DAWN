@@ -128,9 +128,7 @@ class Solution {
 //
 // This is the active implementation below (clean, no extra comments inside code).
 
-import java.util.*;
-
-class Solution {
+public class TheTwoSneakyNumbersofDigitville {
     public int[] getSneakyNumbers(int[] nums) {
         int n = nums.length - 2;
         int[] freq = new int[n];

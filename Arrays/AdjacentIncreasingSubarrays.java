@@ -9,7 +9,7 @@
 
 import java.util.List;
 
-class Solution {
+public class AdjacentIncreasingSubarrays {
     public boolean hasIncreasingSubarrays(List<Integer> nums, int k) {
         int n = nums.size();
         if (n < 2 * k) return false;

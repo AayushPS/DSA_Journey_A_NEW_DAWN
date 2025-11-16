@@ -21,18 +21,23 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 1 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
+| [📝 Math](./Miscellaneous) | Mathematical Challenges | 1 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 39
+- **Total Problems Solved**: 41
 - **Algorithms**: 4
 - **Easy**: 7
-- **Medium**: 25
+- **Medium**: 27
 - **Hard**: 4
 - **Topics Started**: 9/16
 
 ### Recent Activity
+- 📝 **First math Problem** - November 16, 2025
+- 🚀 - Added: 1513. Number of Substrings With Only 1s
+- 🪟 **First SLiding Window Pattern** - November 15,2025
+- 💡 -Added 3234. Count the Number of Substrings With Dominant Ones
 - 📝 **Eleventh Dynamic Programming Problem** - November 15, 2025
 - ✨ Added: 1092. Shortest Common Supersequence (Return the string)
 - 🎯 **Tenth Dynamic Programming Problem** - November 15, 2025

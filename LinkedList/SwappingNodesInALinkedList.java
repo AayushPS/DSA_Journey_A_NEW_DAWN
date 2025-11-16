@@ -73,7 +73,7 @@ Step 3 → Swap values (2 ↔ 4) → [1, 4, 3, 2, 5]
  * }
  */
 
-class Solution {
+public class SwappingNodesInALinkedList{
     public ListNode swapNodes(ListNode head, int k) {
         ListNode p = head;
 

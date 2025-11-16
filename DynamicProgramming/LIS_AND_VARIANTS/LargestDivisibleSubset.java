@@ -105,7 +105,7 @@ but the condition is divisibility instead of ordering.
 
 import java.util.*;
 
-class Solution {
+public class LargestDivisibleSubset {
     public List<Integer> largestDivisibleSubset(int[] nums) {
         Arrays.sort(nums);
         int n = nums.length;

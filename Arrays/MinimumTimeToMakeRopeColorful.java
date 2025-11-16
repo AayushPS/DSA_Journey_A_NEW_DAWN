@@ -58,7 +58,7 @@ Total = 2
 ✅ Best practical and conceptual solution.
 */
 
-class Solution {
+public class MinimumTimeToMakeRopeColorful {
     public int minCost(String colors, int[] neededTime) {
         int n = neededTime.length;
         int res = 0;

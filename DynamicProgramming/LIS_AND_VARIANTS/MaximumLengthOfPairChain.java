@@ -96,7 +96,7 @@ Explanation: The longest chain is [1,2] → [4,5] → [7,8].
 */
 import java.util.*;
 
-class Solution {
+public class MaximumLengthOfPairChain {
     public int findLongestChain(int[][] pairs) {
         int n = pairs.length;
         Arrays.sort(pairs, Comparator.comparingInt(i -> i[0]));

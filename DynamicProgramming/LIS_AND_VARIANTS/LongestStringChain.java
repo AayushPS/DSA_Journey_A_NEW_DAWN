@@ -61,7 +61,7 @@ Checks whether `s1` can become `s2` by inserting exactly one character anywhere.
 import java.util.Arrays;
 import java.util.Comparator;
 
-class Solution {
+public class LongestStringChain {
     public int longestStrChain(String[] words) {
         int n = words.length;
         Arrays.sort(words, Comparator.comparingInt(i -> i.length()));  // Sort by length

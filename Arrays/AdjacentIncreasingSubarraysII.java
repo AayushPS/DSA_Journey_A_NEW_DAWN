@@ -11,7 +11,7 @@
 
 import java.util.List;
 
-class Solution {
+public class AdjacentIncreasingSubarraysII {
     public int maxIncreasingSubarrays(List<Integer> nums) {
         int n = nums.size();
         int max = 1, prevRun = 1, currRun = 1;

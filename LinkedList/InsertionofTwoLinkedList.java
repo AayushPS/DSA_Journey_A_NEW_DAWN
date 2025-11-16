@@ -69,7 +69,7 @@ Why this works:
  *     }
  * }
  */
-public class Solution {
+public class InsertionofTwoLinkedList {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
         // If either list is empty → no intersection

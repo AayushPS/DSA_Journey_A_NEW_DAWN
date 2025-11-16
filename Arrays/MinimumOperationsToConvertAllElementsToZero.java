@@ -65,7 +65,7 @@ Process:
 
 import java.util.*;
 
-class Solution {
+public class MinimumOperationsToConvertAllElementsToZero {
     public int minOperations(int[] nums) {
         int operations = 0;
         ArrayDeque<Integer> stack = new ArrayDeque<>();

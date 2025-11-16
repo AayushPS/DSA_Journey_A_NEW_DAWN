@@ -70,7 +70,7 @@ return the **final value of X** after performing all the operations.
 ✅ Space Complexity: O(1)
 */
 
-class Solution {
+public class FinalValueOfVariableAfterPerformingOperations {
     public int finalValueAfterOperations(String[] operations) {
         int x = 0;
         for (String op : operations) {

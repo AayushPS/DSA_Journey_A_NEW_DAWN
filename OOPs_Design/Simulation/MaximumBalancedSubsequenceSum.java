@@ -65,7 +65,7 @@ At each step:
 
 import java.util.*;
 
-class Solution {
+public class MaximumBalancedSubsequenceSum {
     public int[] findXSum(int[] nums, int k, int x) {
         int n = nums.length;
         int[] freq = new int[51];

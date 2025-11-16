@@ -61,7 +61,7 @@ This is a **greedy observation** that works in O(n) time.
 ───────────────────────────────────────────────────────────────
 */
 
-class Solution {
+public class MinimumNumberOfIncrementsOnSubarraysToFormATargetArray {
     public int minNumberOperations(int[] target) {
         int count = target[0];  // The first element requires this many increments directly.
         for (int i = 1; i < target.length; i++) {

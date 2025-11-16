@@ -49,7 +49,7 @@
  🔹 Implementation:
 */
 
-class Solution {
+public class SmallestMissingNonNegativeIntegerAfterOperations {
     public int findSmallestInteger(int[] nums, int value) {
         int[] freqArr = new int[value];
         int n = nums.length;

@@ -63,7 +63,7 @@ Why it works:
 ✅ Clean, intuitive, and efficient for given constraints.
 */
 
-class Solution {
+public class CountUnguardedCellsInTheGrid {
     private static final int[][] dirs = {{1,0}, {-1,0}, {0,1}, {0,-1}};
     
     public int countUnguarded(int m, int n, int[][] guards, int[][] walls) {

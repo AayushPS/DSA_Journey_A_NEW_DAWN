@@ -274,7 +274,7 @@ class Solution {
 
 import java.util.*;
 
-class Solution {
+public class BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons {
     private static final int MOD = 1_000_000_007;
 
     public int numOfArrays(int n, int m, int k) {

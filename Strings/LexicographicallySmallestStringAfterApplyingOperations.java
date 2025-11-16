@@ -88,7 +88,7 @@
 
 import java.util.*;
 
-class Solution {
+public class LexicographicallySmallestStringAfterApplyingOperations {
     public String findLexSmallestString(String s, int a, int b) {
         int n = s.length();
         Set<String> visited = new HashSet<>();

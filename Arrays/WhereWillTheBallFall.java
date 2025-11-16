@@ -60,7 +60,7 @@ We just simulate the full path until either the ball falls out or gets blocked.
 ✅ Clean, simple, optimal for constraints.
 */
 
-class Solution {
+public class WhereWillTheBallFall {
     public int[] findBall(int[][] grid) {
         int m = grid.length, n = grid[0].length;
         int[] res = new int[n];

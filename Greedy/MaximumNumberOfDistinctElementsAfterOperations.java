@@ -55,7 +55,7 @@
 
 import java.util.*;
 
-class Solution {
+public class MaximumNumberOfDistinctElementsAfterOperations {
     public int maxDistinctElements(int[] nums, int k) {
         Arrays.sort(nums);
         int prev = Integer.MIN_VALUE, dist = 0;

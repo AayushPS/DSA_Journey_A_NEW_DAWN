@@ -30,7 +30,6 @@ Space: O(m * n)
 ───────────────────────────────────────────────────────────────
 */
 
-
 class ShortestCommonSupersequenceREURNING_STRING {
 
     /**

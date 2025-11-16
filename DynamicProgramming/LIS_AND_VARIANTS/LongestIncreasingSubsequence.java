@@ -130,7 +130,7 @@ Output: 1
 
 import java.util.TreeSet;
 
-class Solution {
+public class LongestIncreasingSubsequence {
     public int lengthOfLIS(int[] nums) {
         TreeSet<Integer> arr = new TreeSet<>();
         

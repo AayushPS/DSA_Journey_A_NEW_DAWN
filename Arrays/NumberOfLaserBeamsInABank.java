@@ -83,7 +83,7 @@ Beams = (3×2) + (2×1) = 8
  ------------------------------------------------------------
 */
 
-class Solution {
+public class NumberOfLaserBeamsInABank {
     public int numberOfBeams(String[] bank) {
         int ans = 0, prev = 0, curr;
         for (String row : bank) {

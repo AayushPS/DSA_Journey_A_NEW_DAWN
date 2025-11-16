@@ -172,7 +172,7 @@ import java.util.Map;
 import java.util.TreeMap;
 
 
-class Solution {
+public class MaximumBalancedSubsequenceSum {
     public long maxBalancedSubsequenceSum(int[] nums) {
         int n = nums.length;
         long max = Long.MIN_VALUE + 1;

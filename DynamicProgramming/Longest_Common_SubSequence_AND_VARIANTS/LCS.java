@@ -30,7 +30,7 @@ This ensures we correctly trace back the path that led to the optimal LCS length
 */
 
 
-class Solution {
+public class LCS {
 
     // ───────────────────────────────────────────────────────────────
     // Compute LCS length using standard DP

@@ -68,7 +68,7 @@ nums = [2,10,6,14]
 */
 
 
-class Solution {
+public class MinimumOperationsToMakeAllArrayElementsEqualTo1 {
     public int minOperations(int[] nums) {
         int n = nums.length;
         int count1 = 0;

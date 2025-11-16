@@ -59,7 +59,7 @@ Step 3 → num1 == num2 → num1 = 1 - 1 = 0
 ───────────────────────────────────────────────────────────────
 */
 
-class Solution {
+public class CountOperationsToObtainZero {
     public int countOperations(int num1, int num2) {
         int operations = 0;
 

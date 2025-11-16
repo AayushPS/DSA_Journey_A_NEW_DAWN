@@ -109,7 +109,7 @@ class Solution {
  ✅ Active Code (Final Optimal Implementation)
 */
 
-class Solution {
+public class MaximumAlternatingSubsequenceSum {
     public long maxAlternatingSum(int[] nums) {
         int n = nums.length;
         long even = 0;

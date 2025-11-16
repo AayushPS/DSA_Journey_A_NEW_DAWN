@@ -62,7 +62,7 @@ Input: [1, 2, 2, 1]
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+public class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) return true;
 

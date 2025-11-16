@@ -71,7 +71,7 @@ Step 3 → Merge alternately → [1, 5, 2, 4, 3]
  * }
  */
 
-class Solution {
+public class ReorderList {
 
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) return;
