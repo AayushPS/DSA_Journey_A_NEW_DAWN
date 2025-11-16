@@ -33,11 +33,49 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - **Hard**: 4
 - **Topics Started**: 9/16
 
+## 🎯 Learning Goals
+
+### Do daily Leetcode POTD
+
+### Re-Exploring My DSA Path 🚀
+
+I've decided to revisit and deepen my journey through Data Structures & Algorithms. This time, I'm starting afresh—with new perspective and intent—to master concepts in a structured, phase-wise manner. 
+
+#### **Current Focus: Just Beginning My Dynamic Programming Journey**
+- [x] Got through the basics and the core ideas of DP
+- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/LCS.java)
+- [ ] Advanced topics, optimizations, and state reductions coming up
+- [ ] Lining up a period of intensive DP coding practice to master the field
+
+*This is just a decent start—lots of exciting DP and optimization concepts to visit next! Big coding grind ahead!*
+
+*Progress: ◉◉◎◎ — Some solid growth in DP already, but much more depth to reach!*
+
+#### **Next Up: Revisiting the World of Graphs**
+- [x] Refresh fundamentals—graph traversals and manipulations [Basic Algorithms](./Graphs)
+- [x] Practice shortest paths, connected components 
+- [ ] Explore trees in detail: traversals, BSTs, heap ops
+- [ ] Key interview applications
+
+#### **Future Steps: Advanced Tree Topics & Beyond**
+- [ ] Master Fenwick Trees (Binary Indexed Trees), Segment Trees
+- [ ] Advanced tricks: persistent data structures, union-find
+- [ ] Dive into even more specialized topics (trie, suffix trees etc.)
+
+#### **Phase on the Horizon: Specialized & Real-World Applications**
+- [ ] Bit manipulation and tricky operations
+- [ ] Sliding window, two pointer techniques, prefix/suffix sums
+- [ ] Greedy, optimization, and advanced graph techniques
+- [ ] System/architecture-oriented problem solving
+
+---
+*This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
+
 ### Recent Activity
 - 📝 **First math Problem** - November 16, 2025
-- 🚀 - Added: 1513. Number of Substrings With Only 1s
+- 🚀 Added: 1513. Number of Substrings With Only 1s
 - 🪟 **First SLiding Window Pattern** - November 15,2025
-- 💡 -Added 3234. Count the Number of Substrings With Dominant Ones
+- 💡 Added: 3234. Count the Number of Substrings With Dominant Ones
 - 📝 **Eleventh Dynamic Programming Problem** - November 15, 2025
 - ✨ Added: 1092. Shortest Common Supersequence (Return the string)
 - 🎯 **Tenth Dynamic Programming Problem** - November 15, 2025
@@ -109,44 +147,6 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - 🎉 Repository initialized - October 13, 2025
 - 📁 Created structured folder organization
 - 📝 Added comprehensive topic documentation
-
-## 🎯 Learning Goals
-
-### Do daily Leetcode POTD
-
-### Re-Exploring My DSA Path 🚀
-
-I've decided to revisit and deepen my journey through Data Structures & Algorithms. This time, I'm starting afresh—with new perspective and intent—to master concepts in a structured, phase-wise manner. 
-
-#### **Current Focus: Just Beginning My Dynamic Programming Journey**
-- [x] Got through the basics and the core ideas of DP
-- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/LCS.java)
-- [ ] Advanced topics, optimizations, and state reductions coming up
-- [ ] Lining up a period of intensive DP coding practice to master the field
-
-*This is just a decent start—lots of exciting DP and optimization concepts to visit next! Big coding grind ahead!*
-
-*Progress: ◉◉◎◎ — Some solid growth in DP already, but much more depth to reach!*
-
-#### **Next Up: Revisiting the World of Graphs**
-- [x] Refresh fundamentals—graph traversals and manipulations [Basic Algorithms](./Graphs)
-- [x] Practice shortest paths, connected components 
-- [ ] Explore trees in detail: traversals, BSTs, heap ops
-- [ ] Key interview applications
-
-#### **Future Steps: Advanced Tree Topics & Beyond**
-- [ ] Master Fenwick Trees (Binary Indexed Trees), Segment Trees
-- [ ] Advanced tricks: persistent data structures, union-find
-- [ ] Dive into even more specialized topics (trie, suffix trees etc.)
-
-#### **Phase on the Horizon: Specialized & Real-World Applications**
-- [ ] Bit manipulation and tricky operations
-- [ ] Sliding window, two pointer techniques, prefix/suffix sums
-- [ ] Greedy, optimization, and advanced graph techniques
-- [ ] System/architecture-oriented problem solving
-
----
-*This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ## 🚀 Setup Instructions
 
