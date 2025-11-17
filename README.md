@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 9 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 10 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -26,9 +26,9 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 41
+- **Total Problems Solved**: 42
 - **Algorithms**: 4
-- **Easy**: 7
+- **Easy**: 8
 - **Medium**: 27
 - **Hard**: 4
 - **Topics Started**: 9/16
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 💡 **Tenth Arrays Problem** - November 17, 2025
+- 🔗 Added: 1437. Check If All 1's Are at Least Length K Places Away
 - 📝 **First math Problem** - November 16, 2025
 - 🚀 Added: 1513. Number of Substrings With Only 1s
 - 🪟 **First SLiding Window Pattern** - November 15,2025

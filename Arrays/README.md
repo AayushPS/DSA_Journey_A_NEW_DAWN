@@ -29,6 +29,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [2257. Count Unguarded Cells in the Grid](./CountUnguardedCellsInTheGrid.java) | LeetCode | Medium | Count unoccupied cells not visible by any guard in the four cardinal directions, considering walls |
 | [1578. Minimum Time to Make Rope Colorful](./MinimumTimeToMakeRopeColorful.java) | LeetCode | Medium | Find minimum time to remove adjacent balloons of the same color using greedy approach |
 | [3542. Minimum Operations to Convert All Elements to Zero](./MinimumOperationsToConvertAllElementsToZero.java) | LeetCode | Medium | Obtain minimum number of operations required to make all elements in an array equal to 0 by certain operations |
+| [1437. Check If All 1's Are at Least Length K Places Away](./CheckIfAllOnesAreAtLeastKPlacesAways.java) | LeetCode | Easy | Return **true** if every pair of '1's in the binary array is at least `k` places apart |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
