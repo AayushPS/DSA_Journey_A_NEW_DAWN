@@ -17,7 +17,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 11 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
-| [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 0 |
+| [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 1 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 1 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
@@ -26,9 +26,9 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 42
+- **Total Problems Solved**: 43
 - **Algorithms**: 4
-- **Easy**: 8
+- **Easy**: 9
 - **Medium**: 27
 - **Hard**: 4
 - **Topics Started**: 9/16
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 🔢 **First Bit manipulation Task** - November 18, 2025
+- 🎯 Added: 717. 1-bit and 2-bit Characters
 - 💡 **Tenth Arrays Problem** - November 17, 2025
 - 🔗 Added: 1437. Check If All 1's Are at Least Length K Places Away
 - 📝 **First math Problem** - November 16, 2025

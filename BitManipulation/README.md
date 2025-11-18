@@ -7,6 +7,12 @@ Bitwise operations and bit-level programming techniques. This section covers:
 - Binary representation problems
 - Bit masking techniques
 
+# Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [717. 1-bit and 2-bit Characters](./OneBitAndTwoBitCharacters.java) | LeetCode | Easy | determine whether the last character must be a 1-bit character |
+
 ## Common Problems & Patterns
 - **Single Number** - Finding unique elements using XOR
 - **Power of Two** - Bit manipulation checks
