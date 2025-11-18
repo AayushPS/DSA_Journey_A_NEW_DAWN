@@ -26,12 +26,12 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 44
+- **Total Problems Solved**: 45
 - **Algorithms**: 4
 - **Easy**: 9
-- **Medium**: 28
+- **Medium**: 29
 - **Hard**: 4
-- **Topics Started**: 9/16
+- **Topics Started**: 10/16
 
 ## 🎯 Learning Goals
 
@@ -72,7 +72,9 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
-- 🔤 **twelth Dynamic programing Problem** - November 18, 2025
+- ✅ **Thirteenth Dynamic Programming Problem** - November 18, 2025
+- 📝 Added: 647. Palindromic Substrings
+- 🔤 **Twelth Dynamic programing Problem** - November 18, 2025
 - 🔥 Added: 72. Edit Distance
 - 🔢 **First Bit manipulation Task** - November 18, 2025
 - 🎯 Added: 717. 1-bit and 2-bit Characters
@@ -110,7 +112,7 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 - 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
 - 🎭 **Second OOPs Design Problem!** - November 4, 2025
 - 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
-- c **Sixth DP Problem!** - November 3, 2025
+- 📊 **Sixth DP Problem!** - November 3, 2025
 - 🔥 Added: 2926. Maximum Balanced Subsequence Sum (LeetCode Hard - Dynamic Programming)
 - 📊 **Eighth Arrays Problem!** - November 3, 2025
 - 🔥 Added: 1578. Minimum Time to Make Rope Colorful (LeetCode Medium - Arrays)

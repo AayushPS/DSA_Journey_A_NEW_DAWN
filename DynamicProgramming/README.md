@@ -31,7 +31,7 @@ Dynamic programming optimization technique. This section covers:
 | [1143. Longest Common Subsequence + Print the LCS](./Longest_Common_SubSequence_AND_VARIANTS/LCS.java) | LeetCode | Medium | Computes the Length of actual Longest Common Subsequence and provides the string |
 | [Shortest Common Supersequence (Length Only)](./Longest_Common_SubSequence_AND_VARIANTS/ShortestCommonSuperSequenceLength.java) | GeeksForGeeks | Medium | Given two strings `s1` and `s2`, return the **length** of the shortest string that has both `s1` and `s2` as *subsequences* |
 | [1092. Shortest Common Supersequence (Return the string)](./Longest_Common_SubSequence_AND_VARIANTS/ShortestCommonSuperSequenceREURNING_STRING.java) | LeetCode | Hard | Given two strings str1 and str2, return the shortest string which has both str1 and str2 as subsequences. |
-| [72. Edit Distance](./Longest_Common_SubSequence_AND_VARIANTS/EditDistance.java) | LeetCode | Medium | Find the minimum number of operations (Insert, Delete, Replace) required to transform word1 → word2. |
+| [72. Edit Distance](./DP_On_Strings/EditDistance.java) | LeetCode | Medium | Find the minimum number of operations (Insert, Delete, Replace) required to transform word1 → word2. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
