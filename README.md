@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 11 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 12 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 1 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 43
+- **Total Problems Solved**: 44
 - **Algorithms**: 4
 - **Easy**: 9
-- **Medium**: 27
+- **Medium**: 28
 - **Hard**: 4
 - **Topics Started**: 9/16
 
@@ -43,7 +43,7 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 
 #### **Current Focus: Just Beginning My Dynamic Programming Journey**
 - [x] Got through the basics and the core ideas of DP
-- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/LCS.java)
+- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/EditDistance.java)
 - [ ] Advanced topics, optimizations, and state reductions coming up
 - [ ] Lining up a period of intensive DP coding practice to master the field
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 🔤 **twelth Dynamic programing Problem** - November 18, 2025
+- 🔥 Added: 72. Edit Distance
 - 🔢 **First Bit manipulation Task** - November 18, 2025
 - 🎯 Added: 717. 1-bit and 2-bit Characters
 - 💡 **Tenth Arrays Problem** - November 17, 2025
