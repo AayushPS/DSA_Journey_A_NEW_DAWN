@@ -33,7 +33,8 @@ Dynamic programming optimization technique. This section covers:
 | [1092. Shortest Common Supersequence (Return the string)](./Longest_Common_SubSequence_AND_VARIANTS/ShortestCommonSuperSequenceREURNING_STRING.java) | LeetCode | Hard | Given two strings str1 and str2, return the shortest string which has both str1 and str2 as subsequences. |
 | [72. Edit Distance](./DP_On_Strings/EditDistance.java) | LeetCode | Medium | Find the minimum number of operations (Insert, Delete, Replace) required to transform word1 → word2. |
 | [647. Palindromic Substrings](./DP_On_Strings/PalindromicSubstrings.java) | LeetCode | Medium | Return the total number of palindromic substrings from string given. |
-| [5. Longest Palindromic Substring](./DP_On_Strings/LongestPalindromicSubstring.java) | LeetCode | Medium | return the **longest palindromic substring**. |
+| [5. Longest Palindromic Substring](./DP_On_Strings/LongestPalindromicSubstring.java) | LeetCode | Medium | Return the longest palindromic substring. |
+| [516. Longest Palindromic Subsequence](./DP_On_Strings/LongestPalindromicSubsequence.java) | LeetCode | Medium | Return the longest paindromic subsequence |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
