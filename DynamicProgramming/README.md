@@ -35,6 +35,7 @@ Dynamic programming optimization technique. This section covers:
 | [647. Palindromic Substrings](./DP_On_Strings/PalindromicSubstrings.java) | LeetCode | Medium | Return the total number of palindromic substrings from string given. |
 | [5. Longest Palindromic Substring](./DP_On_Strings/LongestPalindromicSubstring.java) | LeetCode | Medium | Return the longest palindromic substring. |
 | [516. Longest Palindromic Subsequence](./DP_On_Strings/LongestPalindromicSubsequence.java) | LeetCode | Medium | Return the longest paindromic subsequence |
+| [1312. Minimum Insertion Steps to Make a String Palindrome](./DP_On_Strings/EditDistance.java) | LeetCode | Medium | Find the Minimum number of Insertions required to make the string a palindrome. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

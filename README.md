@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 14 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 15 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 1 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,11 +26,11 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 48
+- **Total Problems Solved**: 49
 - **Algorithms**: 4
 - **Easy**: 10
 - **Medium**: 31
-- **Hard**: 4
+- **Hard**: 5
 - **Topics Started**: 10/16
 
 ## 🎯 Learning Goals
@@ -43,7 +43,7 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 
 #### **Current Focus: Just Beginning My Dynamic Programming Journey**
 - [x] Got through the basics and the core ideas of DP
-- [x] Still to solidify more patterns (many are new for me!) [Started DP on Strings](./DynamicProgramming/Longest_Common_SubSequence_AND_VARIANTS/EditDistance.java)
+- [x] Still to solidify more patterns (many are new for me!) [Done hard Question Under DP on Strings](./DynamicProgramming/DP_On_Strings/MinimumInsertionStepsToMakeAStringPalindrome.java)
 - [ ] Advanced topics, optimizations, and state reductions coming up
 - [ ] Lining up a period of intensive DP coding practice to master the field
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 💡 **Fifteenth Dynamic programming Problem** - November 19, 2025
+- ✅ Added: 1312. Minimum Insertion Steps to Make a String Palindrome
 - 🎭 **Fourteenth Dynamic Programming Problem** - November 19, 2025 
 - 📊 Added: 516. Longest Palindromic Subsequence
 - 🎯 **Thirteenth Dynamic Programming Problem** - November 19, 2025
