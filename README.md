@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 15 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 16 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 1 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 50
+- **Total Problems Solved**: 51
 - **Algorithms**: 4
 - **Easy**: 10
-- **Medium**: 32
+- **Medium**: 33
 - **Hard**: 5
 - **Topics Started**: 10/16
 
@@ -72,9 +72,11 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 💡 **Sixteenth Dynamic Programming Problem** - November 21, 2025
+- 🔥 Added: 131. Palindrome Partitioning
 - 📝 **Twelth Arrays Problem** - November 21, 2025
 - 🔤 Added: 1930. Unique Length-3 Palindromic Subsequences
-- 💡 **Fifteenth Dynamic programming Problem** - November 20, 2025
+- 💡 **Fifteenth Dynamic Programming Problem** - November 20, 2025
 - ✅ Added: 1312. Minimum Insertion Steps to Make a String Palindrome
 - 🎭 **Fourteenth Dynamic Programming Problem** - November 20, 2025 
 - 📊 Added: 516. Longest Palindromic Subsequence
