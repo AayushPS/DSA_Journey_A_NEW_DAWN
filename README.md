@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 11 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 12 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 49
+- **Total Problems Solved**: 50
 - **Algorithms**: 4
 - **Easy**: 10
-- **Medium**: 31
+- **Medium**: 32
 - **Hard**: 5
 - **Topics Started**: 10/16
 
@@ -72,9 +72,11 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
-- 💡 **Fifteenth Dynamic programming Problem** - November 19, 2025
+- 📝 **Twelth Arrays Problem** - November 21, 2025
+- 🔤 Added: 1930. Unique Length-3 Palindromic Subsequences
+- 💡 **Fifteenth Dynamic programming Problem** - November 20, 2025
 - ✅ Added: 1312. Minimum Insertion Steps to Make a String Palindrome
-- 🎭 **Fourteenth Dynamic Programming Problem** - November 19, 2025 
+- 🎭 **Fourteenth Dynamic Programming Problem** - November 20, 2025 
 - 📊 Added: 516. Longest Palindromic Subsequence
 - 🎯 **Thirteenth Dynamic Programming Problem** - November 19, 2025
 - 🚀 Added: 5. Longest Palindromic Substring

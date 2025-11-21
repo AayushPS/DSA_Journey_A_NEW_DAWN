@@ -31,6 +31,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3542. Minimum Operations to Convert All Elements to Zero](./MinimumOperationsToConvertAllElementsToZero.java) | LeetCode | Medium | Obtain minimum number of operations required to make all elements in an array equal to 0 by certain operations |
 | [1437. Check If All 1's Are at Least Length K Places Away](./CheckIfAllOnesAreAtLeastKPlacesAways.java) | LeetCode | Easy | Return **true** if every pair of '1's in the binary array is at least `k` places apart |
 | [2154. Keep Multiplying Found Values by Two](./KeepMultiplyingFoundValuesByTwo.java) | LeetCode | Easy | Check what value of a number can be obtained after certain operations |
+| [1930. Unique Length-3 Palindromic Subsequences](./UniqueLength3PalindromicSubsequences.java) | LeetCode | Medium | Count the **number of UNIQUE palindromic subsequences** of length 3. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
