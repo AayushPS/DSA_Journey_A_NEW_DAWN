@@ -37,6 +37,7 @@ Dynamic programming optimization technique. This section covers:
 | [516. Longest Palindromic Subsequence](./DP_On_Strings/LongestPalindromicSubsequence.java) | LeetCode | Medium | Return the longest paindromic subsequence |
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./DP_On_Strings/EditDistance.java) | LeetCode | Medium | Find the Minimum number of Insertions required to make the string a palindrome. |
 | [131. Palindrome Partitioning](./DP_On_Strings/PalindromePartitioning.java) | LeetCode | Medium | Return ALL possible partitions where every substring in the partition is a palindrome. |
+| [132. Palindrome Partitioning II](./DP_On_Strings/PalindromePartitioningII.java) | LeetCode | Hard | Given a string s, partition it such that every substring is a palindrome and Return the **minimum number of cuts** needed. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

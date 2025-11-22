@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 16 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 17 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 3 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 1 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,11 +26,11 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 52
+- **Total Problems Solved**: 53
 - **Algorithms**: 4
 - **Easy**: 11
 - **Medium**: 33
-- **Hard**: 5
+- **Hard**: 6
 - **Topics Started**: 10/16
 
 ## 🎯 Learning Goals
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 💰 **Seventeenth Dynamic Programming Problem** - November 22, 2025
+- 🔢 Added: 132. Palindrome Partitioning II
 - 🚀 **Twelveth Arrays Problems** -November 22, 2025
 - 🔗 Added: 3190. Find Minimum Operations to Make All Elements Divisible by Three
 - 💡 **Sixteenth Dynamic Programming Problem** - November 21, 2025
