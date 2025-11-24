@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 17 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 18 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 53
+- **Total Problems Solved**: 54
 - **Algorithms**: 4
 - **Easy**: 12
-- **Medium**: 34
+- **Medium**: 35
 - **Hard**: 6
 - **Topics Started**: 10/16
 
@@ -43,7 +43,7 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 
 #### **Current Focus: Just Beginning My Dynamic Programming Journey**
 - [x] Got through the basics and the core ideas of DP
-- [x] Still to solidify more patterns (many are new for me!) [Done hard Question Under DP on Strings](./DynamicProgramming/DP_On_Strings/MinimumInsertionStepsToMakeAStringPalindrome.java)
+- [x] Still to solidify more patterns (many are new for me!) [Starting DP on Grids](./DynamicProgramming/DP%20_On_Grids/UniquePaths.java)
 - [ ] Advanced topics, optimizations, and state reductions coming up
 - [ ] Lining up a period of intensive DP coding practice to master the field
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- ✨ **Eighteenth Dynamic Programming Problem - First On DP on Grids** - November 24, 2025
+- 📈 Added: 62. Unique Paths
 - ✅ **Second Bit-Manipulation Task** - November 24, 2025
 - 🎭 Added: 1018. Binary Prefix Divisible By 5
 - 💡 **Fourth Greedy Problem** - November 23.2025

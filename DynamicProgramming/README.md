@@ -38,6 +38,7 @@ Dynamic programming optimization technique. This section covers:
 | [1312. Minimum Insertion Steps to Make a String Palindrome](./DP_On_Strings/EditDistance.java) | LeetCode | Medium | Find the Minimum number of Insertions required to make the string a palindrome. |
 | [131. Palindrome Partitioning](./DP_On_Strings/PalindromePartitioning.java) | LeetCode | Medium | Return ALL possible partitions where every substring in the partition is a palindrome. |
 | [132. Palindrome Partitioning II](./DP_On_Strings/PalindromePartitioningII.java) | LeetCode | Hard | Given a string s, partition it such that every substring is a palindrome and Return the **minimum number of cuts** needed. |
+| [62. Unique Paths](./DP%20_On_Grids/UniquePaths.java) | LeetCode | Medium | A robot is on an m x n grid, starting at the top-left corner (0,0) and must reach the bottom-right corner (m-1,n-1). It may only move **right** or **down**. Return the number of unique paths possible. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
