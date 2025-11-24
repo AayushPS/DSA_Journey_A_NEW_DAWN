@@ -23,6 +23,7 @@ Greedy algorithm design paradigm. This section covers:
 | [3397. Maximum Number of Distinct Elements After Operations](./MaximumNumberOfDistinctElementsAfterOperations.java) | LeetCode | Medium | Maximize distinct elements by adding values in range [-k, k] using greedy sorting approach |
 | [1526. Minimum Number of Increments on Subarrays to Form a Target Array](./MinimumNumberOfIncrementsOnSubarraysToFormATargetArray.java) | LeetCode | Hard | Compute difference-based increments between consecutive elements. |
 | [2654. Minimum Number of Operations to Make All Array Elements Equal to 1](./MinimumOperationsToMakeAllArrayElementsEqualTo1.java) | LeetCode | Medium | Minimum number of operations needed to make all elements equal to 1 |
+| [1262. Greatest Sum Divisible by Three](./GreatestSumDivisibleByThree.java) | LeetCode | Medium | Given an integer array nums, return the maximum possible sum of elements such that the total sum is divisible by 3. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
