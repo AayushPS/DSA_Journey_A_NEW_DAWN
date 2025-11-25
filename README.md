@@ -21,7 +21,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 1 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
-| [📝 Math](./Miscellaneous) | Mathematical Challenges | 1 |
+| [📝 Math](./Miscellaneous) | Mathematical Challenges | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
@@ -29,7 +29,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 - **Total Problems Solved**: 54
 - **Algorithms**: 4
 - **Easy**: 12
-- **Medium**: 35
+- **Medium**: 36
 - **Hard**: 6
 - **Topics Started**: 10/16
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 🔄 **Second Math Problem** - November 25, 2025
+- ⛰️ Added: 1015. Smallest Integer Divisible by K
 - ✨ **Eighteenth Dynamic Programming Problem - First On DP on Grids** - November 24, 2025
 - 📈 Added: 62. Unique Paths
 - ✅ **Second Bit-Manipulation Task** - November 24, 2025
