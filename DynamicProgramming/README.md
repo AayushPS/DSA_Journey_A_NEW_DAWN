@@ -39,6 +39,7 @@ Dynamic programming optimization technique. This section covers:
 | [131. Palindrome Partitioning](./DP_On_Strings/PalindromePartitioning.java) | LeetCode | Medium | Return ALL possible partitions where every substring in the partition is a palindrome. |
 | [132. Palindrome Partitioning II](./DP_On_Strings/PalindromePartitioningII.java) | LeetCode | Hard | Given a string s, partition it such that every substring is a palindrome and Return the **minimum number of cuts** needed. |
 | [62. Unique Paths](./DP%20_On_Grids/UniquePaths.java) | LeetCode | Medium | A robot is on an m x n grid, starting at the top-left corner (0,0) and must reach the bottom-right corner (m-1,n-1). It may only move **right** or **down**. Return the number of unique paths possible. |
+| [63. Unique Paths 2](./DP%20_On_Grids/UniquePaths2.java) | LeetCode | Medium | A robot moves in an m x n grid from top-left to bottom-right, only moving RIGHT or DOWN. Some cells are blocked by obstacles (represented as 1). Robot cannot step on obstacles. Return the number of unique valid paths from start to finish. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
