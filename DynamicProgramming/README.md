@@ -41,6 +41,7 @@ Dynamic programming optimization technique. This section covers:
 | [62. Unique Paths](./DP%20_On_Grids/UniquePaths.java) | LeetCode | Medium | A robot is on an m x n grid, starting at the top-left corner (0,0) and must reach the bottom-right corner (m-1,n-1). It may only move **right** or **down**. Return the number of unique paths possible. |
 | [63. Unique Paths 2](./DP%20_On_Grids/UniquePaths2.java) | LeetCode | Medium | A robot moves in an m x n grid from top-left to bottom-right, only moving RIGHT or DOWN. Some cells are blocked by obstacles (represented as 1). Robot cannot step on obstacles. Return the number of unique valid paths from start to finish. |
 | [2435. Paths in Matrix Whose Sum Is Divisible by K](./DP%20_On_Grids/PathsInMatrixWhoseSumIsDivisibleByK.java) | LeetCode | Hard | Count how many distinct paths end at (m−1,n−1) such that the **sum of all visited values is divisible by k**. |
+| [64. Minimum Path Sum](./DP%20_On_Grids/MaximumPathSum.java) | LeetCode | Medium | find a path from (0,0) to (m−1,n−1) moving only RIGHT or DOWN, such that the **sum of all values on the path is minimized**. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

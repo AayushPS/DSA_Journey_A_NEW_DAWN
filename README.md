@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 20 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 21 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 56
+- **Total Problems Solved**: 57
 - **Algorithms**: 4
 - **Easy**: 12
-- **Medium**: 37
+- **Medium**: 38
 - **Hard**: 7
 - **Topics Started**: 10/16
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 🔍 **Twenty First Dynamic Programming Problem** - November 26, 2025
+- 💡 Added: 64. Minimum Path Sum
 - 💰 **Twentieth Dynamic Programming Problem** - November 26, 2025
 - ✨ Added: 2435. Paths in Matrix Whose Sum Is Divisible by K
 - ✨ **Nineteenth Dynamic Programming Problem** - November 25, 2025
