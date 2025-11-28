@@ -18,15 +18,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 21 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
-| [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
+| [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 2 |
-| [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
-| [📝 Math](./Miscellaneous) | Mathematical Challenges | 2 |
+| [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 |
+| [📝 Math](./Math) | Mathematical Challenges | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 59
+- **Total Problems Solved**: 64
 - **Algorithms**: 4
 - **Easy**: 12
 - **Medium**: 39
