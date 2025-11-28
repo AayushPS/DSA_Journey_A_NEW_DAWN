@@ -21,6 +21,7 @@ Prefix sum technique and cumulative computation patterns. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [2536. Increment Submatrices by One](./IncrementSubmatricesByOne.java) | LeetCode | Medium | Process queries to increment cells in submatrices using 2D difference array and prefix sum techniques |
+| [3381. Maximum Subarray Sum With Length Divisible by K](./MaximumSubarraySumWithLengthDivisibleByK.java) | LeetCode | Medium | Your task is to find the maximum possible subarray sum such that the **length of the subarray is divisible by k**. |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

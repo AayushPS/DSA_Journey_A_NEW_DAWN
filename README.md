@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 💡 **Second PrefixSum Problem** - November 27, 2025
+- 📊 Added: 3381. Maximum Subarray Sum With Length Divisible by K
 - 🔍 **Twenty First Dynamic Programming Problem** - November 26, 2025
 - 💡 Added: 64. Minimum Path Sum
 - 💰 **Twentieth Dynamic Programming Problem** - November 26, 2025
