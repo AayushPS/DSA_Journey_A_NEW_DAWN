@@ -16,6 +16,13 @@ Binary tree data structure and related algorithms. This section covers:
 - **Tree Serialization** - Converting tree to/from string
 - **Binary Tree Views** - Left, right, top, bottom views
 
+
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [2872. Maximum Number of K-Divisible Components](./MaximumNumberOfKDivisibleComponents.java) | LeetCode | Hard | In an undirected tree, remove any set of edges such that every resulting connected component has a total node-value sum divisible by k. Return the maximum possible number of connected components. |
+
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
 - Proper tree node structure and management

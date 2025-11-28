@@ -11,7 +11,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
-| [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 0 |
+| [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 1 |
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
@@ -19,19 +19,19 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 0 |
-| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 1 |
+| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 2 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 2 |
 | [📝 Math](./Miscellaneous) | Mathematical Challenges | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 57
+- **Total Problems Solved**: 59
 - **Algorithms**: 4
 - **Easy**: 12
-- **Medium**: 38
-- **Hard**: 7
-- **Topics Started**: 10/16
+- **Medium**: 39
+- **Hard**: 8
+- **Topics Started**: 11/16
 
 ## 🎯 Learning Goals
 
@@ -72,6 +72,8 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- 🌳 **First Tree Problem** -November 28, 2025
+- 🎯 Added: 2872. Maximum Number of K-Divisible Components
 - 💡 **Second PrefixSum Problem** - November 27, 2025
 - 📊 Added: 3381. Maximum Subarray Sum With Length Divisible by K
 - 🔍 **Twenty First Dynamic Programming Problem** - November 26, 2025
