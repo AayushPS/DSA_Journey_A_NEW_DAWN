@@ -42,6 +42,8 @@ Dynamic programming optimization technique. This section covers:
 | [63. Unique Paths 2](./DP%20_On_Grids/UniquePaths2.java) | LeetCode | Medium | A robot moves in an m x n grid from top-left to bottom-right, only moving RIGHT or DOWN. Some cells are blocked by obstacles (represented as 1). Robot cannot step on obstacles. Return the number of unique valid paths from start to finish. |
 | [2435. Paths in Matrix Whose Sum Is Divisible by K](./DP%20_On_Grids/PathsInMatrixWhoseSumIsDivisibleByK.java) | LeetCode | Hard | Count how many distinct paths end at (m−1,n−1) such that the **sum of all visited values is divisible by k**. |
 | [64. Minimum Path Sum](./DP%20_On_Grids/MaximumPathSum.java) | LeetCode | Medium | find a path from (0,0) to (m−1,n−1) moving only RIGHT or DOWN, such that the **sum of all values on the path is minimized**. |
+| [1594. Maximum Non-Negative Product in a Matrix](./DP%20_On_Grids/MaximumNonNegativeProductInAMatrix.java) | LeetCode | Medium | Starting at (0,0). Determine the maximum non-negative product of all elements along a path to (m-1,n-1). |
+| [174. Dungeon Game](./DP%20_On_Grids/DungeonGame.java) | LeetCode | Hard | Determine the minimum initial health required so that the knight can reach the princess at (m−1,n−1) from (0,0). |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

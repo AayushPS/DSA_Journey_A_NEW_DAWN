@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 21 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 23 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 |
@@ -26,11 +26,11 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 65
+- **Total Problems Solved**: 67
 - **Algorithms**: 4
 - **Easy**: 13
-- **Medium**: 39
-- **Hard**: 8
+- **Medium**: 40
+- **Hard**: 9
 - **Topics Started**: 11/16
 
 ## 🎯 Learning Goals
@@ -72,6 +72,10 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
+- ✨ **Twenty Third Problem on Dynamic Programming** - November 29, 2025
+- 📝 Added: 1594. Maximum Non-Negative Product in a Matrix
+- ✅ **Twenty Second Problem on Dynamic Programming** - November 29, 2025
+- 💡 Added: 174. Dungeon Game
 - 🎭 **Fourteenth Array Problem** - November 29, 2025 
 - 🚀 Added: 3512. Minimum Operations to Make Array Sum Divisible by K
 - 🌳 **First Tree Problem** - November 28, 2025
