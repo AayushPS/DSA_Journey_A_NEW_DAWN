@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 13 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 14 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
@@ -26,9 +26,9 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 64
+- **Total Problems Solved**: 65
 - **Algorithms**: 4
-- **Easy**: 12
+- **Easy**: 13
 - **Medium**: 39
 - **Hard**: 8
 - **Topics Started**: 11/16
@@ -72,7 +72,9 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
 
 ### Recent Activity
-- 🌳 **First Tree Problem** -November 28, 2025
+- 🎭 **Fourteenth Array Problem** - November 29, 2025 
+- 🚀 Added: 3512. Minimum Operations to Make Array Sum Divisible by K
+- 🌳 **First Tree Problem** - November 28, 2025
 - 🎯 Added: 2872. Maximum Number of K-Divisible Components
 - 💡 **Second PrefixSum Problem** - November 27, 2025
 - 📊 Added: 3381. Maximum Subarray Sum With Length Divisible by K

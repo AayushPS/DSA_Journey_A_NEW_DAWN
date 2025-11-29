@@ -33,6 +33,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [2154. Keep Multiplying Found Values by Two](./KeepMultiplyingFoundValuesByTwo.java) | LeetCode | Easy | Check what value of a number can be obtained after certain operations |
 | [1930. Unique Length-3 Palindromic Subsequences](./UniqueLength3PalindromicSubsequences.java) | LeetCode | Medium | Count the **number of UNIQUE palindromic subsequences** of length 3. |
 | [3190. Find Minimum Operations to Make All Elements Divisible by Three](./FindMinimumOperationsToMakeAllElementsDivisibleByThree.java) | LeetCode | Easy | Goal → Make Every element divisible by 3  Return → Minimum number of operations required. |
+| [3512. Minimum Operations to Make Array Sum Divisible by K](./MinimumOperationsToMakeArraySumDivisibleByK.java) | LeetCode | Easy | Determine the minimum number of operations needed so that the total sum of the array becomes divisible by k. |
  
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
