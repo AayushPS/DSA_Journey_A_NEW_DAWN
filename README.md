@@ -19,17 +19,17 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 |
-| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 2 |
+| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 3 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 |
 | [📝 Math](./Math) | Mathematical Challenges | 2 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 67
+- **Total Problems Solved**: 68
 - **Algorithms**: 4
 - **Easy**: 13
-- **Medium**: 40
+- **Medium**: 41
 - **Hard**: 9
 - **Topics Started**: 11/16
 
@@ -70,131 +70,6 @@ I've decided to revisit and deepen my journey through Data Structures & Algorith
 
 ---
 *This path is about depth, not speed—reexploring, relearning, and conquering one foundational block at a time! Currently building momentum with DP, then forging onward to graphs, trees (including Fenwick, Segment Trees), and more specialized topics step-by-step.*
-
-### Recent Activity
-- ✨ **Twenty Third Problem on Dynamic Programming** - November 29, 2025
-- 📝 Added: 1594. Maximum Non-Negative Product in a Matrix
-- ✅ **Twenty Second Problem on Dynamic Programming** - November 29, 2025
-- 💡 Added: 174. Dungeon Game
-- 🎭 **Fourteenth Array Problem** - November 29, 2025 
-- 🚀 Added: 3512. Minimum Operations to Make Array Sum Divisible by K
-- 🌳 **First Tree Problem** - November 28, 2025
-- 🎯 Added: 2872. Maximum Number of K-Divisible Components
-- 💡 **Second PrefixSum Problem** - November 27, 2025
-- 📊 Added: 3381. Maximum Subarray Sum With Length Divisible by K
-- 🔍 **Twenty First Dynamic Programming Problem** - November 26, 2025
-- 💡 Added: 64. Minimum Path Sum
-- 💰 **Twentieth Dynamic Programming Problem** - November 26, 2025
-- ✨ Added: 2435. Paths in Matrix Whose Sum Is Divisible by K
-- ✨ **Nineteenth Dynamic Programming Problem** - November 25, 2025
-- 📈 Added: 63. Unique Paths 3
-- 🔄 **Second Math Problem** - November 25, 2025
-- ⛰️ Added: 1015. Smallest Integer Divisible by K
-- ✨ **Eighteenth Dynamic Programming Problem - First On DP on Grids** - November 24, 2025
-- 📈 Added: 62. Unique Paths
-- ✅ **Second Bit-Manipulation Task** - November 24, 2025
-- 🎭 Added: 1018. Binary Prefix Divisible By 5
-- 💡 **Fourth Greedy Problem** - November 23.2025
-- 📝 Added: 1262. Greatest Sum Divisible by Three
-- 💰 **Seventeenth Dynamic Programming Problem** - November 22, 2025
-- 🔢 Added: 132. Palindrome Partitioning II
-- 🚀 **Twelveth Arrays Problems** -November 22, 2025
-- 🔗 Added: 3190. Find Minimum Operations to Make All Elements Divisible by Three
-- 💡 **Sixteenth Dynamic Programming Problem** - November 21, 2025
-- 🔥 Added: 131. Palindrome Partitioning
-- 📝 **Twelth Arrays Problem** - November 21, 2025
-- 🔤 Added: 1930. Unique Length-3 Palindromic Subsequences
-- 💡 **Fifteenth Dynamic Programming Problem** - November 20, 2025
-- ✅ Added: 1312. Minimum Insertion Steps to Make a String Palindrome
-- 🎭 **Fourteenth Dynamic Programming Problem** - November 20, 2025 
-- 📊 Added: 516. Longest Palindromic Subsequence
-- 🎯 **Thirteenth Dynamic Programming Problem** - November 19, 2025
-- 🚀 Added: 5. Longest Palindromic Substring
-- ✨ **Tenth Arrays Problem** - November 19,2025
-- 💰 Added: 2154. Keep Multiplying Found Values by Two
-- ✅ **Thirteenth Dynamic Programming Problem** - November 18, 2025
-- 📝 Added: 647. Palindromic Substrings
-- 🔤 **Twelth Dynamic programing Problem** - November 18, 2025
-- 🔥 Added: 72. Edit Distance
-- 🔢 **First Bit manipulation Task** - November 18, 2025
-- 🎯 Added: 717. 1-bit and 2-bit Characters
-- 💡 **Tenth Arrays Problem** - November 17, 2025
-- 🔗 Added: 1437. Check If All 1's Are at Least Length K Places Away
-- 📝 **First math Problem** - November 16, 2025
-- 🚀 Added: 1513. Number of Substrings With Only 1s
-- 🪟 **First SLiding Window Pattern** - November 15,2025
-- 💡 Added: 3234. Count the Number of Substrings With Dominant Ones
-- 📝 **Eleventh Dynamic Programming Problem** - November 15, 2025
-- ✨ Added: 1092. Shortest Common Supersequence (Return the string)
-- 🎯 **Tenth Dynamic Programming Problem** - November 15, 2025
-- 🚀 Added: Shortest Common Supersequence (Length Only)
-- 💰 **Ninth Dynamic Programmig Problem - First in LCS** - November 14, 2025
-- 💡 Added: 1143. Longest Common Subsequence + Print the LCS
-- ✅ **First PrefixSum Problem** - November 14, 2025
-- 📝 Added: 2536. Increment Submatrices by One
-- 🔗 **Two Linked List Problems Solved in class** - November 12, 2025
-- 🚀 Added: 1472. Design Browser History (LeetCode Medium - LinkedList) , 160. Intersection of Two Linked Lists (LeetCode Easy - LinkedList)
-- 📊 **Third Greedy Problem** - November 12, 2025
-- 🚀 Added: 2654. Minimum Number of Operations to Make All Array Elements Equal to 1
-- 💰 **Eighth Dynamic Programming Problem** - November 12, 2025
-- 🔥 Added: 474. Ones and Zeroes
-- 🎭 **Nineth Arrays Problem** - November 11, 2025
-- 🔥 Added: 3542. Minimum Operations to Convert All Elements to Zero 
-- 📊 **Coded 4 important graph algorithms in DAA class** - November 11, 2025
-- 💡 Added: Djkstra, DSU, Krushkal, Prims algorithms in java
-- 🎯 **Done 4 LinkedList Problems of Targeted Companies in college** - November 11, 2025
-- 🔗 Added: 1669. Merge In Between Linked Lists , 143. Reorder List , 1721. Swapping Nodes in a Linked List (Leetcode Medium - Linked List) , 234. Palindrome Linked List (Leetcode Easy- Linked List)
-- 💡 **Seventh DP Problem! - LIS learning Completed** - November 10, 2025
-- 🔥 Added: 368. Largest Divisible Subset (LeetCode Medium - Dynamic Programming)
-- 🎯 **First Miscellaneous Problem!** - November 9, 2025
-- 🔥 Added: 2169. Count Operations to Obtain Zero (LeetCode Easy - Miscellaneous)
-- 💡 **Learned Patience Sorting Method for LIS!** - November 8, 2025
-- 🎯 Updated: 300. Longest Increasing Subsequence with O(N log N) TreeSet approach (Patience Sorting)
-- 🎭 **Second OOPs Design Problem!** - November 4, 2025
-- 🔥 Added: 3318. Find X-Sum of All K-Long Subarrays I (LeetCode Easy - OOPs Design & Simulation)
-- 📊 **Sixth DP Problem!** - November 3, 2025
-- 🔥 Added: 2926. Maximum Balanced Subsequence Sum (LeetCode Hard - Dynamic Programming)
-- 📊 **Eighth Arrays Problem!** - November 3, 2025
-- 🔥 Added: 1578. Minimum Time to Make Rope Colorful (LeetCode Medium - Arrays)
-- 📊 **Seventh Arrays Problem!** - November 2, 2025
-- 🔥 Added: 2257. Count Unguarded Cells in the Grid (LeetCode Medium - Arrays)
-- 🔗 **First LinkedList Problem!** - November 1, 2025
-- 🔥 Added: 3217. Delete Nodes From Linked List Present in Array (LeetCode Medium - LinkedList)
-- 📊 **Sixth Arrays Problem!** - November 1, 2025
-- 🔥 Added: 1706. Where Will the Ball Fall (LeetCode Medium - Arrays)
-- 📊 **Fifth Arrays Problem!** - November 1, 2025
-- 🔥 Added: 3289. The Two Sneaky Numbers of Digitville (LeetCode Easy - Arrays)
-- 💡 **First 3d-DP Problem** - October 30, 2025
-- 🔥 Added: 1420. Build Array Where You Can Find The Maximum Exactly K Comparisons (LeetCode Hard - Dynamic Programming)
-- 🎆 **Forth DP Problem** - October 30, 2025
-- 🔥 Added: 1048. Longest String Chain (LeetCode Medium - Dynamic Programming)
-- 💰 **Second Greedy Problem!** - October 30, 2025
-- 🔥 Added: 3397. Minimum Number of Increments on Subarrays to Form a Target Array (LeetCode Hard - Greedy)
-- 📊 **Third DP Problem!** - October 29, 2025
-- ✅ Added: 646. Maximum Length of Pair Chain (LeetCode Medium - Dynamic Programming)
-- 💡 **Second DP Problem!** - October 29, 2025
-- 🔥 Added: 300. Longest Increasing Subsequence (LeetCode Medium - Dynamic Programming)
-- 📊 **Fourth Arrays Problem!** - October 27, 2025
-- 🔥 Added: 2125. Number of Laser Beams in a Bank (LeetCode Medium - Arrays)
-- 🎭 **First OOPs Design Problem!** - October 27, 2025
-- 🔥 Added: 2043. Simple Bank System (LeetCode Medium - OOPs Design & Simulation)
-- ✨ **Second Easy Problem!** - October 20, 2025
-- 🔥 Added: 2011. Final Value of Variable After Performing Operations (LeetCode Easy - Strings)
-- 🔤 **First Strings Problem!** - October 19, 2025
-- 🔥 Added: 1625. Lexicographically Smallest String After Applying Operations (LeetCode Medium - Strings)
-- 💰 **First Greedy Problem!** - October 18, 2025
-- 🔥 Added: 3397. Maximum Number of Distinct Elements After Operations (LeetCode Medium - Greedy)
-- 🔥 **First DP Problem!** - October 16, 2025
-- 🔥 Added: 1911. Maximum Alternating Subsequence Sum (LeetCode Medium - Dynamic Programming)
-- 🎆 **Advanced Medium Problem!** - October 16, 2025
-- 🔥 Added: 2598. Smallest Missing Non-negative Integer After Operations (LeetCode Medium)
-- 🚀 **First Medium Problem!** - October 15, 2025
-- 🔥 Added: 3350. Adjacent Increasing Subarrays Detection II (LeetCode Medium)
-- ✅ **First Problem Solved!** - October 14, 2025
-- 🔥 Added: 3349. Adjacent Increasing Subarrays Detection I (LeetCode Easy)
-- 🎉 Repository initialized - October 13, 2025
-- 📁 Created structured folder organization
-- 📝 Added comprehensive topic documentation
 
 ## 🚀 Setup Instructions
 
