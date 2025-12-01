@@ -1,10 +1,10 @@
-# Binary Search Tree (BST) 🔍
+# Binary Search(BS) 🔍
 
 ## What This Topic Covers
-Binary Search Tree properties and operations. This section covers:
-- BST insertion, deletion, and search
+Binary Search properties and operations. This section covers:
+- BS idea of reduction of search space
 - BST validation and construction
-- In-order successor/predecessor
+- optimization over normal searching
 - Self-balancing tree concepts
 
 ## Common Problems & Patterns
@@ -15,6 +15,12 @@ Binary Search Tree properties and operations. This section covers:
 - **BST Iterator** - In-order traversal without recursion
 - **Range Sum Queries** - Sum of nodes in given range
 - **BST Construction** - Building BST from various inputs
+
+## Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+|---------|----------|------------|----------|
+| [2141. Maximum Running Time of N Computers](./MaximumRunningTimeOfNComputers.java) | LeetCode | Hard | Find answer of maximum running time by reducing search space via binary search |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

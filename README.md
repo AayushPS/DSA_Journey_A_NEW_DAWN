@@ -12,7 +12,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 0 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 1 |
-| [🔍 Binary Search Tree](./BST) | BST operations and validations | 0 |
+| [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 24 |
@@ -26,12 +26,12 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 69
+- **Total Problems Solved**: 70
 - **Algorithms**: 4
 - **Easy**: 13
 - **Medium**: 41
-- **Hard**: 10
-- **Topics Started**: 11/16
+- **Hard**: 11
+- **Topics Started**: 12/16
 
 ## 🎯 Learning Goals
 
