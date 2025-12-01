@@ -44,6 +44,7 @@ Dynamic programming optimization technique. This section covers:
 | [64. Minimum Path Sum](./DP%20_On_Grids/MaximumPathSum.java) | LeetCode | Medium | find a path from (0,0) to (m−1,n−1) moving only RIGHT or DOWN, such that the **sum of all values on the path is minimized**. |
 | [1594. Maximum Non-Negative Product in a Matrix](./DP%20_On_Grids/MaximumNonNegativeProductInAMatrix.java) | LeetCode | Medium | Starting at (0,0). Determine the maximum non-negative product of all elements along a path to (m-1,n-1). |
 | [174. Dungeon Game](./DP%20_On_Grids/DungeonGame.java) | LeetCode | Hard | Determine the minimum initial health required so that the knight can reach the princess at (m−1,n−1) from (0,0). |
+| [3363. Find the Maximum Number of Fruits Collected](./DP%20_On_Grids/FindTheMaximumNumberOfFruitsCollected.java) | LeetCode | Hard | A Complex Movement on grid solved using DP for scalability to generate maximum output |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
