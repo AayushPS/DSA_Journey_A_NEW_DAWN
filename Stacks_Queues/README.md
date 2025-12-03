@@ -23,6 +23,10 @@ Linear data structures with specific access patterns. This section covers:
 | [735. Asteroid Collision](./AsteroidCollision.java) | LeetCode | Medium | Monotonic stack implementation to get which asteroids will remain at the end |
 | [1047. Remove All Adjacent Duplicates In String](./RemoveAllAdjacentDuplicatesInString.java) | LeetCode | Easy | Use stack to check the adjacent duplicacy and return string with no adjacent duplicates |
 | [901. Online Stock Span](./OnlineStockSpan.java) | LeetCode | Monotonic stack used to evaluate th eldest smallest valuation available as span over stocks problem |
+| [946. Validate Stack Sequences](./ValidateStackSequences.java) | LeetCode | Medium | Determine whether popped[] can be obtained through a valid series of push + pop operations on an initially empty stack. |
+| [20. Valid Parentheses](./ValidParentheses.java) | LeetCode | Easy | Determine if the string is *valid*. A string is valid if: • Open brackets are closed by the same type of bracket  • Open brackets are closed in the correct order  • Every closing bracket has a corresponding open bracket  |
+| [1963. Minimum Number of Swaps to Make the String Balanced](./MinimumNumberOfSwapsToMakeTheStringBalanced.java) | LeetCode | Medium | You are given a string `s` of even length, containing exactly n/2 '[' and n/2 ']'. |
+ 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

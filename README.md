@@ -9,7 +9,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 14 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
-| [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 3 |
+| [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 6 |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 1 |
 | [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 77
+- **Total Problems Solved**: 80
 - **Algorithms**: 4
-- **Easy**: 14
-- **Medium**: 44
+- **Easy**: 15
+- **Medium**: 46
 - **Hard**: 11
 - **Topics Started**: 13/16
 
