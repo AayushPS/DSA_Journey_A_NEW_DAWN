@@ -41,6 +41,7 @@ This section focuses on math-based techniques essential for competitive programm
 | [1513. Number of Substrings With Only 1s](./NumberOfSubstringsWithOnly1s.java) | LeetCode | Medium | Return the number of substrings that consist ONLY of character '1' |
 | [1015. Smallest Integer Divisible by K](./SmallestIntegerDivisibleByK.java) | LeetCode | Medium | return the length of the smallest positive integer n such that: n is divisible by k, n consists only of the digit '1'. If no such integer exists, return -1. |
 | [3623. Count Number of Trapezoids I](./CountNumberOfTrapezoidsI.java) | LeetCode | Medium | Count all **unique horizontal trapezoids** formed by selecting any 4 distinct points. |
+| [3625. Count Number of Trapezoids II](./CountNumberOfTrapezoidsII.java) | LeetCode | Hard | Return the number of unique trapezoids formed by choosing any 4 distinct points. |
 
 ## Implementation Notes
 Solutions are written in **Java** with focus on:
