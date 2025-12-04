@@ -26,7 +26,7 @@ Linear data structures with specific access patterns. This section covers:
 | [946. Validate Stack Sequences](./ValidateStackSequences.java) | LeetCode | Medium | Determine whether popped[] can be obtained through a valid series of push + pop operations on an initially empty stack. |
 | [20. Valid Parentheses](./ValidParentheses.java) | LeetCode | Easy | Determine if the string is *valid*. A string is valid if: • Open brackets are closed by the same type of bracket  • Open brackets are closed in the correct order  • Every closing bracket has a corresponding open bracket  |
 | [1963. Minimum Number of Swaps to Make the String Balanced](./MinimumNumberOfSwapsToMakeTheStringBalanced.java) | LeetCode | Medium | You are given a string `s` of even length, containing exactly n/2 '[' and n/2 ']'. |
- 
+| [2211. Count Collisions on a Road](./CountCollisionsOnARoad.java) | LeetCode | Medium | return collision count of vehicles running in different directions at same speeds on a single road or stays still | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
