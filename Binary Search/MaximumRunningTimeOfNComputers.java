@@ -106,6 +106,8 @@ class Solution {
  ------------------------------------------------------------
 */
 
+import java.util.Arrays;
+
 public class MaximumRunningTimeOfNComputers {
 
     public long maxRunTime(int n, int[] batteries) {

@@ -1,3 +1,4 @@
+package Math;
 /*
  🔹 Problem: 3625. Count Number of Trapezoids II
  🔹 Platform: LeetCode
@@ -80,6 +81,8 @@ Output: 1
 
  ------------------------------------------------------------
 */
+
+import java.util.HashMap;
 
 public class CountNumberOfTrapezoidsII {
 

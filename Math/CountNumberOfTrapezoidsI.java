@@ -1,3 +1,4 @@
+package Math;
 /*
  🔹 Problem: 3623. Count Number of Trapezoids I
  🔹 Platform: LeetCode
