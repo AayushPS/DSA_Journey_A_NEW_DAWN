@@ -15,7 +15,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 24 |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 25 |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 |
@@ -26,10 +26,10 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 83
+- **Total Problems Solved**: 84
 - **Algorithms**: 4
 - **Easy**: 16
-- **Medium**: 47
+- **Medium**: 48
 - **Hard**: 12
 - **Topics Started**: 13/16
 
