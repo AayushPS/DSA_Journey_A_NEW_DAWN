@@ -43,6 +43,7 @@ This section focuses on math-based techniques essential for competitive programm
 | [3623. Count Number of Trapezoids I](./CountNumberOfTrapezoidsI.java) | LeetCode | Medium | Count all **unique horizontal trapezoids** formed by selecting any 4 distinct points. |
 | [3625. Count Number of Trapezoids II](./CountNumberOfTrapezoidsII.java) | LeetCode | Hard | Return the number of unique trapezoids formed by choosing any 4 distinct points. |
 | [1523. Count Odd Numbers in an Interval Range](./CountOddNumbersInAnIntervalRange.java) | LeetCode | Easy | Given two integers `low` and `high`, return how many **odd numbers** exist in the inclusive range `[low, high]`. | 
+| [1925. Count Square Sum Triples](./CountSquareSumTriples.java) | LeetCode | Easy | A *square triple* (a, b, c) satisfies: a² + b² = c²;  1 ≤ a, b, c ≤ n . Return how many such ordered triples exist. |
 
 ## Implementation Notes
 Solutions are written in **Java** with focus on:
