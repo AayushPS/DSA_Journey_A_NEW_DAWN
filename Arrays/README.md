@@ -35,6 +35,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3190. Find Minimum Operations to Make All Elements Divisible by Three](./FindMinimumOperationsToMakeAllElementsDivisibleByThree.java) | LeetCode | Easy | Goal → Make Every element divisible by 3  Return → Minimum number of operations required. |
 | [3512. Minimum Operations to Make Array Sum Divisible by K](./MinimumOperationsToMakeArraySumDivisibleByK.java) | LeetCode | Easy | Determine the minimum number of operations needed so that the total sum of the array becomes divisible by k. |
 | [3432. Count Partitions with Even Sum Difference](./CountPartitionsWithEvenSumDifference.java) | LeetCode | Easy | We must count how many partitions produce an **even value** for: (sum(left) - sum(right)) |
+| [3583. Count Special Triplets](./CountSpecialTriplets.java) | LeetCode | Medium | for 0 ≤ i < j < k < n ; nums[i] = nums[j] * 2 ; nums[k] = nums[j] * 2. Count all such triplets. |
 
 
 ## Implementation Notes

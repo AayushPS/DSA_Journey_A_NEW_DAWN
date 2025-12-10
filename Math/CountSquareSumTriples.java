@@ -1,3 +1,4 @@
+package Math;
 /*
  🔹 Problem: 1925. Count Square Sum Triples
  🔹 Platform: LeetCode
