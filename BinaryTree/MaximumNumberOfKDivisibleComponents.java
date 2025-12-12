@@ -154,7 +154,7 @@ public class MaximumNumberOfKDivisibleComponents {
     private int count = 0;
 
     public int maxKDivisibleComponents(int n, int[][] edges, int[] values, int k) {
-        List<Integer>[] graph = new ArrayList[n];
+        List<Integer>[] graph =new ArrayList[n];
         for (int i = 0; i < n; i++)
             graph[i] = new ArrayList<>();
 
