@@ -6,7 +6,7 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 | Topic | Description | Problems Solved |
 |-------|-------------|----------------|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 18 |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 19 |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 2 |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 7 |
@@ -26,9 +26,9 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 90
+- **Total Problems Solved**: 91
 - **Algorithms**: 4
-- **Easy**: 18
+- **Easy**: 19
 - **Medium**: 52
 - **Hard**: 12
 - **Topics Started**: 13/16
