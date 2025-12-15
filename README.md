@@ -21,15 +21,15 @@ A structured record of my Data Structures & Algorithms learning journey, impleme
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 3 |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 |
-| [📝 Math](./Math) | Mathematical Challenges | 8 |
+| [📝 Math](./Math) | Mathematical Challenges | 9 |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 |
 
 ## 📈 Progress Tracker
 
-- **Total Problems Solved**: 92
+- **Total Problems Solved**: 93
 - **Algorithms**: 4
 - **Easy**: 19
-- **Medium**: 52
+- **Medium**: 53
 - **Hard**: 13
 - **Topics Started**: 13/16
 

@@ -46,6 +46,7 @@ This section focuses on math-based techniques essential for competitive programm
 | [1925. Count Square Sum Triples](./CountSquareSumTriples.java) | LeetCode | Easy | A *square triple* (a, b, c) satisfies: a² + b² = c²;  1 ≤ a, b, c ≤ n . Return how many such ordered triples exist. |
 | [3577. Count the Number of Computer Unlocking Permutations](./CountTheNumberOfComputerUnlockingPermutations.java) | LeetCode | Medium | A permutation P of [0…n−1] is a valid unlocking order if: • P[0] = 0  • For every index t>0, computer P[t] has some earlier position u<t such that: P[u] < P[t] AND complexity[P[u]] < complexity[P[t]] |
 | [2147. Number of Ways to Divide a Long Corridor](./NumberOfWaysToDivideALongCorridor.java) | LeetCode | Hard | Count the segments and then see the available partitions possible |
+| [2110. Number of Smooth Descent Periods of a Stock](./NumberOfSmoothDescentPeriodsOfAStock.java) | LeetCode | Medium | Count continuous decrement of value 1 in array |
 
 
 ## Implementation Notes
