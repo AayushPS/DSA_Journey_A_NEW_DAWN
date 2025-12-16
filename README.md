@@ -2,8 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?logo=java&logoColor=white)](https://www.oracle.com/java/)
-[![LeetCode Problems](https://img.shields.io/badge/Problems%20Solved-93-blue)](https://leetcode.com)
-[![Topics Covered](https://img.shields.io/badge/Topics-17-brightgreen)](https://github.com/AayushPS/DSA_Journey_A_NEW_DAWN)
+[![LeetCode Problems](https://img.shields.io/badge/Problems%20Solved-94-blue)](https://leetcode.com)
+[![Topics Covered](https://img.shields.io/badge/Topics-18-brightgreen)](https://github.com/AayushPS/DSA_Journey_A_NEW_DAWN)
 
 A structured, comprehensive record of my **Data Structures & Algorithms** learning journey, implemented in **Java**, organized by topic, pattern, and difficulty level.
 
@@ -20,7 +20,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 | ⭐⭐ |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 0 | ⭐⭐ |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 4 | ⭐⭐⭐ |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 25 | ⭐⭐⭐ |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 26 | ⭐⭐⭐ |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 | ⭐⭐ |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 | ⭐ |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 | ⭐⭐ |
@@ -35,31 +35,32 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 93 |
+| **Total Problems Solved** | 94 |
 | **Easy** | 19 |
 | **Medium** | 53 |
-| **Hard** | 13 |
+| **Hard** | 14 |
 | **Algorithm Implementations** | 4 |
-| **Topics Started** | 13/17 |
+| **Topics Started** | 13/18 |
 
 </div>
 
 ## 🎯 Learning Journey
 
-### Current Phase: Deepening Dynamic Programming Mastery
+### Current Phase: Advanced Dynamic Programming & Optimization Mastery
 
 I'm on a mission to **master DSA concepts** through structured, phase-wise learning:
 
 **Current Focus Areas:**
 - ✅ DP fundamentals and core concepts solidified
-- 🔄 Exploring diverse DP patterns (Grids, Strings, LIS Variants)
-- 📚 Building strong foundation for advanced techniques
-- 🎯 Preparing for real-world problem solving
+- ✅ Diverse DP patterns mastered (Grids, Strings, LIS Variants, LCS)
+- 🔄 Exploring Tree DP and Knapsack Variants with hierarchical optimization
+- 📚 Building advanced techniques foundation with discount/cost propagation strategies
+- 🎯 Preparing for real-world problem solving with complex DP scenarios
 
 **Progress Indicators:**
-- DP Coverage: ◉◉◉◎ - Strong progress with more depth needed
-- Arrays & Basics: ◉◉◉◎ - Well-established foundation
-- Overall DSA: ◉◉◉◎ - Solid growth trajectory
+- DP Coverage: ◉◉◉◉ - Comprehensive coverage with advanced patterns
+- Arrays & Basics: ◉◉◉◉ - Well-established foundation
+- Overall DSA: ◉◉◉◎ - Strong growth trajectory with depth focus
 
 ### Next Phases on the Horizon
 

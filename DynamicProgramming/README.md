@@ -27,7 +27,7 @@ Dynamic programming optimization technique. This section covers:
 | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons](./LIS_AND_VARIANTS/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java) | LeetCode | Hard | Prefix Sum optimized 2D DP Approach to find the states |
 | [2926. Maximum Balanced Subsequence Sum](./LIS_AND_VARIANTS/MaximumBalancedSubsequenceSum.java) | LeetCode | Hard | Find maximum sum of balanced subsequence using DP with coordinate compression and binary search |
 | [368. Largest Divisible Subset](./LIS_AND_VARIANTS/LargestDivisibleSubset.java) | LeetCode | Medium | Find the largest subset where every pair of elements is divisible using DP and sorting |
-| [474. Ones and Zeroes](./Miscellaneous/OnesAndZeroes.java) | LeetCode | Medium | Return the size of the largest subset of String Array such that the total number of 0’s is at most `m`, and the total number of 1’s is at most `n` |
+| [474. Ones and Zeroes](./Miscellaneous/OnesAndZeroes.java) | LeetCode | Medium | Return the size of the largest subset of String Array such that the total number of 0's is at most `m`, and the total number of 1's is at most `n` |
 | [1143. Longest Common Subsequence + Print the LCS](./Longest_Common_SubSequence_AND_VARIANTS/LCS.java) | LeetCode | Medium | Computes the Length of actual Longest Common Subsequence and provides the string |
 | [Shortest Common Supersequence (Length Only)](./Longest_Common_SubSequence_AND_VARIANTS/ShortestCommonSuperSequenceLength.java) | GeeksForGeeks | Medium | Given two strings `s1` and `s2`, return the **length** of the shortest string that has both `s1` and `s2` as *subsequences* |
 | [1092. Shortest Common Supersequence (Return the string)](./Longest_Common_SubSequence_AND_VARIANTS/ShortestCommonSuperSequenceREURNING_STRING.java) | LeetCode | Hard | Given two strings str1 and str2, return the shortest string which has both str1 and str2 as subsequences. |
@@ -46,6 +46,7 @@ Dynamic programming optimization technique. This section covers:
 | [174. Dungeon Game](./DP%20_On_Grids/DungeonGame.java) | LeetCode | Hard | Determine the minimum initial health required so that the knight can reach the princess at (m−1,n−1) from (0,0). |
 | [3363. Find the Maximum Number of Fruits Collected](./DP%20_On_Grids/FindTheMaximumNumberOfFruitsCollected.java) | LeetCode | Hard | A Complex Movement on grid solved using DP for scalability to generate maximum output |
 | [3578. Count Partitions With Max-Min Difference at Most K](./Miscellaneous/CountPartitionsWithMaxMinDifferenceAtMostK.java) | LeetCode | Medium | Return **the total number of valid partitions** where every partition follows  max(segment) - min(segment) ≤ k. |
+| [3562. Maximum Profit from Trading Stocks with Discounts](./KnapSack_and_Variants/MaximumProfitFromTradingStocksWithDiscounts.java) | LeetCode | Hard | Maximize profit by strategically buying/selling stocks in a tree hierarchy with 50% discounts for subordinates when boss buys |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
