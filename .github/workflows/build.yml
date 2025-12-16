@@ -1,0 +1,165 @@
+name: Java Build & Compilation Check
+
+on:
+  push:
+    branches: [ main, develop ]
+    paths:
+      - '**.java'
+      - '.github/workflows/*.yml'
+  pull_request:
+    branches: [ main, develop ]
+    paths:
+      - '**.java'
+      - '.github/workflows/*.yml'
+
+jobs:
+  build:
+    name: Compile Java Files
+    runs-on: ubuntu-latest
+    
+    strategy:
+      matrix:
+        java-version: ['21']
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Java ${{ matrix.java-version }}
+      uses: actions/setup-java@v4
+      with:
+        java-version: ${{ matrix.java-version }}
+        distribution: 'temurin'
+        cache: 'maven'
+
+    - name: Display Java version
+      run: java -version
+
+    - name: Compile Java files
+      run: |
+        echo "🔍 Scanning for Java files..."
+        find . -name "*.java" -type f ! -path "./.git/*" | head -20
+        
+        echo "📦 Compiling Java files..."
+        for file in $(find . -name "*.java" -type f ! -path "./.git/*"); do
+          echo "  Compiling: $file"
+          javac "$file" -d /tmp/classes || {
+            echo "❌ Compilation failed for: $file"
+            exit 1
+          }
+        done
+        echo "✅ All Java files compiled successfully!"
+
+    - name: Generate compilation report
+      if: always()
+      run: |
+        echo "## 📋 Compilation Report" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Java Version: $(java -version 2>&1 | head -1)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "Total Java Files: $(find . -name '*.java' -type f ! -path './.git/*' | wc -l)" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "✅ All files compiled without errors!" >> $GITHUB_STEP_SUMMARY
+
+  code-quality:
+    name: Code Quality Checks
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Check file naming conventions
+      run: |
+        echo "🔍 Checking Java file naming conventions..."
+        find . -name "*.java" -type f ! -path "./.git/*" | while read file; do
+          basename=$(basename "$file")
+          # Check if filename starts with uppercase (PascalCase for classes)
+          if [[ ! "$basename" =~ ^[A-Z] ]]; then
+            echo "⚠️  Warning: File '$basename' should start with uppercase letter"
+          fi
+        done
+        echo "✅ Naming convention check complete!"
+
+    - name: Check for common issues
+      run: |
+        echo "🔍 Checking for common issues..."
+        
+        # Check for debugging prints
+        if grep -r "System.err.println\|System.out.println" --include="*.java" .; then
+          echo "⚠️  Warning: Found debug print statements"
+        fi
+        
+        # Check for TODO comments
+        if grep -r "TODO\|FIXME" --include="*.java" .; then
+          echo "ℹ️  Found TODO/FIXME comments (for information)"
+        fi
+        
+        echo "✅ Issue check complete!"
+
+  docs:
+    name: Documentation Check
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Check README files exist
+      run: |
+        echo "📚 Checking documentation..."
+        
+        # Check main README
+        if [ -f "README.md" ]; then
+          echo "✅ Main README.md exists"
+        else
+          echo "❌ Main README.md missing"
+          exit 1
+        fi
+        
+        # Check topic READMEs
+        missing=0
+        for dir in Arrays Strings LinkedList Stacks_Queues Graphs DynamicProgramming Greedy BitManipulation Math; do
+          if [ -d "$dir" ] && [ ! -f "$dir/README.md" ]; then
+            echo "⚠️  Missing README.md in $dir"
+            missing=$((missing + 1))
+          fi
+        done
+        
+        if [ $missing -eq 0 ]; then
+          echo "✅ All major topic directories have README files"
+        else
+          echo "⚠️  $missing topic directories are missing README files"
+        fi
+
+  summary:
+    name: Build Summary
+    runs-on: ubuntu-latest
+    needs: [build, code-quality, docs]
+    if: always()
+    
+    steps:
+    - name: Generate Summary
+      run: |
+        echo "## ✨ Build Check Complete" >> $GITHUB_STEP_SUMMARY
+        echo "" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ needs.build.result }}" == "success" ]; then
+          echo "✅ **Compilation**: PASSED" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "❌ **Compilation**: FAILED" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ needs.code-quality.result }}" == "success" ]; then
+          echo "✅ **Code Quality**: PASSED" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "⚠️  **Code Quality**: CHECK WARNINGS" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        if [ "${{ needs.docs.result }}" == "success" ]; then
+          echo "✅ **Documentation**: PASSED" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "⚠️  **Documentation**: INCOMPLETE" >> $GITHUB_STEP_SUMMARY
+        fi

@@ -1,0 +1,140 @@
+name: Pull Request Validation
+
+on:
+  pull_request:
+    branches: [ main, develop ]
+    types: [ opened, synchronize, reopened ]
+
+permissions:
+  pull-requests: write
+  contents: read
+
+jobs:
+  validate-pr:
+    name: Validate PR Structure
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Check PR title format
+      run: |
+        PR_TITLE="${{ github.event.pull_request.title }}"
+        echo "PR Title: $PR_TITLE"
+        
+        # Check if title matches pattern
+        if [[ $PR_TITLE =~ ^(feat|fix|docs|style|refactor|perf|test|chore)(\(.+\))?:\ .{10,} ]]; then
+          echo "✅ PR title format is valid"
+        else
+          echo "⚠️  PR title should follow pattern: feat(scope): description"
+          echo "   Examples:"
+          echo "   - feat(Array): Add Two Sum solution"
+          echo "   - fix(DP): Correct time complexity analysis"
+          echo "   - docs(README): Update Arrays section"
+        fi
+
+    - name: Check branch name
+      run: |
+        BRANCH="${{ github.head_ref }}"
+        echo "Branch name: $BRANCH"
+        
+        if [[ ! $BRANCH =~ ^(feat|fix|docs|refactor)/ ]]; then
+          echo "⚠️  Consider naming your branch: feat/, fix/, docs/, or refactor/"
+        fi
+
+    - name: Analyze file changes
+      run: |
+        echo "📊 Analyzing changed files..."
+        
+        # Get list of changed files
+        git diff --name-only origin/main...HEAD | head -20
+        
+        # Count by type
+        JAVA_FILES=$(git diff --name-only origin/main...HEAD | grep '\.java$' | wc -l)
+        MD_FILES=$(git diff --name-only origin/main...HEAD | grep '\.md$' | wc -l)
+        
+        echo ""
+        echo "Changed Files:"
+        echo "  Java files: $JAVA_FILES"
+        echo "  Markdown files: $MD_FILES"
+
+    - name: Check for large files
+      run: |
+        echo "📁 Checking file sizes..."
+        
+        LARGE_FILES=$(git diff --name-only origin/main...HEAD | xargs -I {} sh -c 'size=$(stat -f%z "$1" 2>/dev/null || stat -c%s "$1" 2>/dev/null); if [ "$size" -gt 100000 ]; then echo "$1 ($size bytes)"; fi' _ {})
+        
+        if [ ! -z "$LARGE_FILES" ]; then
+          echo "⚠️  Large files detected:"
+          echo "$LARGE_FILES"
+        else
+          echo "✅ No excessively large files detected"
+        fi
+
+    - name: Check commit messages
+      run: |
+        echo "📝 Checking commit messages..."
+        
+        # Get commit messages
+        git log --pretty=format:"%s" origin/main...HEAD | while read -r msg; do
+          # Check minimum length
+          if [ ${#msg} -lt 10 ]; then
+            echo "⚠️  Commit message too short: '$msg'"
+          fi
+        done
+        
+        echo "✅ Commit message check complete"
+
+    - name: Verify problem documentation
+      run: |
+        echo "📚 Verifying problem documentation..."
+        
+        # If Java files are added, check for header comments
+        if git diff --name-only origin/main...HEAD | grep -q '\.java$'; then
+          echo "Checking Java file documentation..."
+          
+          git diff --name-only origin/main...HEAD | grep '\.java$' | head -10 | while read -r file; do
+            if git show "origin/main:$file" 2>/dev/null | head -20 | grep -q "Problem:"; then
+              echo "✅ $file has problem documentation"
+            elif [ "$(git show :0:"$file" 2>/dev/null | head -1)" != "" ]; then
+              if head -20 "$file" | grep -q "Problem:"; then
+                echo "✅ $file has problem documentation"
+              else
+                echo "⚠️  $file should include problem documentation"
+              fi
+            fi
+          done
+        fi
+
+  check-dependencies:
+    name: Check Dependencies
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Set up Java 21
+      uses: actions/setup-java@v4
+      with:
+        java-version: '21'
+        distribution: 'temurin'
+
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Verify Java compilation
+      run: |
+        echo "🔨 Verifying Java compilation for new/modified files..."
+        
+        git diff --name-only origin/main...HEAD | grep '\.java$' | head -10 | while read -r file; do
+          if [ -f "$file" ]; then
+            echo "Testing: $file"
+            if javac "$file" -d /tmp/test_classes 2>&1; then
+              echo "  ✅ Compilation successful"
+            else
+              echo "  ❌ Compilation failed"
+              exit 1
+            fi
+          fi
+        done
