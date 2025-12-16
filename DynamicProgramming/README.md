@@ -47,6 +47,7 @@ Dynamic programming optimization technique. This section covers:
 | [3363. Find the Maximum Number of Fruits Collected](./DP%20_On_Grids/FindTheMaximumNumberOfFruitsCollected.java) | LeetCode | Hard | A Complex Movement on grid solved using DP for scalability to generate maximum output |
 | [3578. Count Partitions With Max-Min Difference at Most K](./Miscellaneous/CountPartitionsWithMaxMinDifferenceAtMostK.java) | LeetCode | Medium | Return **the total number of valid partitions** where every partition follows  max(segment) - min(segment) ≤ k. |
 | [3562. Maximum Profit from Trading Stocks with Discounts](./KnapSack_and_Variants/MaximumProfitFromTradingStocksWithDiscounts.java) | LeetCode | Hard | Maximize profit by strategically buying/selling stocks in a tree hierarchy with 50% discounts for subordinates when boss buys |
+| [Subset Sum Problem](./KnapSack_and_Variants/SubsetSumProblem.java) | GeeksForGeeks | Medium | Determine whether there exists a subset of an array whose sum is exactly equal to a given target sum using 0/1 Knapsack DP approach |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
