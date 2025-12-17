@@ -49,6 +49,7 @@ Dynamic programming optimization technique. This section covers:
 | [3562. Maximum Profit from Trading Stocks with Discounts](./KnapSack_and_Variants/MaximumProfitFromTradingStocksWithDiscounts.java) | LeetCode | Hard | Maximize profit by strategically buying/selling stocks in a tree hierarchy with 50% discounts for subordinates when boss buys |
 | [Subset Sum Problem](./KnapSack_and_Variants/SubsetSumProblem.java) | GeeksForGeeks | Medium | Determine whether there exists a subset of an array whose sum is exactly equal to a given target sum using 0/1 Knapsack DP approach |
 | [3573. Best Time to Buy and Sell Stock V](./KnapSack_and_Variants/BestTimeToBuyAndSellStockV.java) | LeetCode | Medium | Maximize profit with up to k transactions (both normal and short selling) using state-machine DP with 3 states |
+| [416. Partition Equal Subset Sum](./KnapSack_and_Variants/PartitionEqualSubsetSum.java) | LeetCode | Medium | Determine whether an array can be partitioned into two subsets with equal sum using 0/1 Knapsack DP approach |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
