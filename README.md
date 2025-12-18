@@ -24,7 +24,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 | ⭐⭐ |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 | ⭐ |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 | ⭐⭐ |
-| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 3 | ⭐ |
+| [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 4 | ⭐ |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 | ⭐⭐ |
 | [📝 Math](./Math) | Mathematical Challenges | 9 | ⭐⭐ |
 | [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 | ⭐⭐ |
@@ -35,9 +35,9 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 97 |
+| **Total Problems Solved** | 98 |
 | **Easy** | 19 |
-| **Medium** | 56 |
+| **Medium** | 57 |
 | **Hard** | 14 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 13/18 |
