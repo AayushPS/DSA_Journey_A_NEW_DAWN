@@ -1,4 +1,4 @@
-package Graphs;
+package Graphs.Algorithms;
 
 /*
  * To check Connectivity of nodes in Graph optimally

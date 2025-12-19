@@ -1,4 +1,4 @@
-package Graphs;
+package Graphs.Algorithms;
 
 import java.util.Comparator;
 import java.util.List;
