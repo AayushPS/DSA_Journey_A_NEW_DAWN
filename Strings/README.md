@@ -22,6 +22,7 @@ String manipulation and processing algorithms. This section covers:
 |---------|----------|------------|----------|
 | [1625. Lexicographically Smallest String After Applying Operations](./LexicographicallySmallestStringAfterApplyingOperations.java) | LeetCode | Medium | Find lexicographically smallest string using BFS with rotation and digit addition operations |
 | [2011. Final Value of Variable After Performing Operations](./FinalValueOfVariableAfterPerformingOperations.java) | LeetCode | Easy | Simulate increment/decrement operations on a variable using string parsing |
+| [944. Delete Columns to Make Sorted](./DeleteColumnsToMakeSorted.java) | LeetCode | Easy | Select string's columwise char to see sorted or not, and delete columns that don't follow | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
