@@ -7,6 +7,11 @@ Heap data structure and priority queue applications. This section covers:
 - Priority queue implementations
 - Heap-based sorting techniques
 
+# Problems Solved
+
+| Problem | Platform | Difficulty | Summary |
+| [2054. Two Best Non-Overlapping Events](./TwoBestNonOverlappingEvents.java) | LeetCode | Medium | use Priority queue to get aximum value of event to be chosen as 1st for current being as second element |
+
 ## Common Problems & Patterns
 - **Kth Largest/Smallest** - Using heaps for order statistics
 - **Merge K Sorted Arrays** - Multi-way merge with priority queue
