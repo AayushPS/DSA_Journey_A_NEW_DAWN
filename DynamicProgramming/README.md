@@ -51,7 +51,8 @@ Dynamic programming optimization technique. This section covers:
 | [3573. Best Time to Buy and Sell Stock V](./KnapSack_and_Variants/BestTimeToBuyAndSellStockV.java) | LeetCode | Medium | Maximize profit with up to k transactions (both normal and short selling) using state-machine DP with 3 states |
 | [416. Partition Equal Subset Sum](./KnapSack_and_Variants/PartitionEqualSubsetSum.java) | LeetCode | Medium | Determine whether an array can be partitioned into two subsets with equal sum using 0/1 Knapsack DP approach |
 | [960. Delete Columns to Make Sorted III](./LIS_AND_VARIANTS/DeleteColumnsToMakeSortedIII.java) | LeetCode | Hard | Use LIS on multiple strings at once |
-| [Perfect Sum Problem](./KnapSack_and_Variants/PerfectSumProblem.java) | LeetCode | Medium | count the number of subsets whose elements sum to target using knapsack logic |
+| [Perfect Sum Problem](./KnapSack_and_Variants/PerfectSumProblem.java) | GeeksForGeeks | Medium | count the number of subsets whose elements sum to target using knapsack logic |
+| [Minimum Sum Partition](./KnapSack_and_Variants/MinimumSumPartition.java) | GeeksForGeeks | Hard | find minimum difference between two subsets created from given arr | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
