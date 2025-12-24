@@ -53,6 +53,7 @@ Dynamic programming optimization technique. This section covers:
 | [960. Delete Columns to Make Sorted III](./LIS_AND_VARIANTS/DeleteColumnsToMakeSortedIII.java) | LeetCode | Hard | Use LIS on multiple strings at once |
 | [Perfect Sum Problem](./KnapSack_and_Variants/PerfectSumProblem.java) | GeeksForGeeks | Medium | count the number of subsets whose elements sum to target using knapsack logic |
 | [Minimum Sum Partition](./KnapSack_and_Variants/MinimumSumPartition.java) | GeeksForGeeks | Hard | find minimum difference between two subsets created from given arr | 
+| [Partitions with Given Difference](./KnapSack_and_Variants/PartitionsWithGivenDifference.java) | GeeksForGeeks | Medium | Given an array of integers and a value diff, count the number of ways to partition the array into two subsets S1 and S2 such that: abs(sum(S1) − sum(S2)) = diff |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

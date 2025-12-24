@@ -20,7 +20,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 | ⭐⭐ |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 1 | ⭐⭐ |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 5 | ⭐⭐⭐ |
-| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 32 | ⭐⭐⭐ |
+| [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 33 | ⭐⭐⭐ |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 4 | ⭐⭐ |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 | ⭐ |
 | [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 | ⭐⭐ |
@@ -35,9 +35,9 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 104 |
+| **Total Problems Solved** | 105 |
 | **Easy** | 21 |
-| **Medium** | 60 |
+| **Medium** | 61 |
 | **Hard** | 17 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 14/18 |
