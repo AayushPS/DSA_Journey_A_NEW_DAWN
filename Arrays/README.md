@@ -40,6 +40,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3433. Count Mentions Per User](./CountMentionsPerUser.java) | LeetCode | Medium | PostProcess interval time to exclude using TreeMap |
 | [3606. Coupon Code Validator](./CouponCodeValidator.java) | LeetCode | Easy | sort and filter operations |
 | [3074. Apple Redistribution into Boxes](./AppleRedistributionIntoBoxes.java) | LeetCode | Easy | Sort and chhose greedily |
+| [3075. Maximize Happiness of Selected Children](./MaximizeHappinessOfSelectedChildren.java) | LeetCode | Medium | Sort and choose greedily |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

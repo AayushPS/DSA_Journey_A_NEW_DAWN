@@ -11,7 +11,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Topic | Description | Problems | Difficulty |
 |:-----:|:----------:|:--------:|:----------:|
-| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 20 | ⭐⭐ |
+| [📊 Arrays](./Arrays) | Fundamental array operations and algorithms | 21 | ⭐⭐ |
 | [🔤 Strings](./Strings) | String manipulation and pattern matching | 4 | ⭐ |
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 | ⭐⭐ |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 7 | ⭐⭐ |
@@ -35,9 +35,9 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 105 |
+| **Total Problems Solved** | 106 |
 | **Easy** | 21 |
-| **Medium** | 61 |
+| **Medium** | 62 |
 | **Hard** | 17 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 14/18 |
