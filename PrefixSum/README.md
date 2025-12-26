@@ -24,6 +24,7 @@ Prefix sum technique and cumulative computation patterns. This section covers:
 | [3381. Maximum Subarray Sum With Length Divisible by K](./MaximumSubarraySumWithLengthDivisibleByK.java) | LeetCode | Medium | Your task is to find the maximum possible subarray sum such that the **length of the subarray is divisible by k**. |
 | [1590. Make Sum Divisible by P](./%20MakeSumDivisibleByP.java) | LeetCode | Medium |  remove the smallest contiguous subarray such that the sum of the remaining elements becomes divisible by p. |
 | [3652. Best Time to Buy and Sell Stock using Strategy](./BestTimeToBuyAndSellStockUsingStrategy.java) | LeetCode | Medium | Maximize profit from stock transactions with a strategy array by optionally modifying k consecutive days using prefix sum and sliding window. |
+| [2483. Minimum Penalty for a Shop](./MinimumPenaltyForAShop.java) | LeetCode | Medium | use aseperate prefix sum to gateher different infos | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
