@@ -10,7 +10,8 @@ Heap data structure and priority queue applications. This section covers:
 # Problems Solved
 
 | Problem | Platform | Difficulty | Summary |
-| [2054. Two Best Non-Overlapping Events](./TwoBestNonOverlappingEvents.java) | LeetCode | Medium | use Priority queue to get aximum value of event to be chosen as 1st for current being as second element |
+| [2054. Two Best Non-Overlapping Events](./TwoBestNonOverlappingEvents.java) | LeetCode | Medium | use Priority queue to get maximum value of event to be chosen as 1st for current being as second element |
+| [2402. Meeting Rooms III](./MeetingRoomsIII.java) | LeetCode | Hard | Use Heaps to get current free rooms and busy rooms to allot rooms next and count the meetings held and find maximum of those | 
 
 ## Common Problems & Patterns
 - **Kth Largest/Smallest** - Using heaps for order statistics
