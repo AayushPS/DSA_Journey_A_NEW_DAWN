@@ -21,6 +21,7 @@ Binary Search properties and operations. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [2141. Maximum Running Time of N Computers](./MaximumRunningTimeOfNComputers.java) | LeetCode | Hard | Find answer of maximum running time by reducing search space via binary search |
+| [1351. Count Negative Numbers in a Sorted Matrix](./CountNegativeNumbersInASortedMatrix.java) | LeetCode | Easy | find count of negative numbers in a matrix using two pointers and binary search | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

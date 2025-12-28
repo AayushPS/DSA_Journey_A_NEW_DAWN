@@ -17,7 +17,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 7 | ⭐⭐ |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 | ⭐⭐⭐ |
 | [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 1 | ⭐⭐ |
-| [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 1 | ⭐⭐ |
+| [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 2 | ⭐⭐ |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 2 | ⭐⭐ |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 5 | ⭐⭐⭐ |
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 34 | ⭐⭐⭐ |
@@ -35,8 +35,8 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 109 |
-| **Easy** | 21 |
+| **Total Problems Solved** | 110 |
+| **Easy** | 22 |
 | **Medium** | 64 |
 | **Hard** | 18 |
 | **Algorithm Implementations** | 4 |
