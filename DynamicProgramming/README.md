@@ -54,7 +54,8 @@ Dynamic programming optimization technique. This section covers:
 | [Perfect Sum Problem](./KnapSack_and_Variants/PerfectSumProblem.java) | GeeksForGeeks | Medium | count the number of subsets whose elements sum to target using knapsack logic |
 | [Minimum Sum Partition](./KnapSack_and_Variants/MinimumSumPartition.java) | GeeksForGeeks | Hard | find minimum difference between two subsets created from given arr | 
 | [Partitions with Given Difference](./KnapSack_and_Variants/PartitionsWithGivenDifference.java) | GeeksForGeeks | Medium | Given an array of integers and a value diff, count the number of ways to partition the array into two subsets S1 and S2 such that: abs(sum(S1) − sum(S2)) = diff |
-| [494. Target Sum](./KnapSack_and_Variants/TargetSum.java) | LeetCode | Medium | LeetCode | Same as Partitions with given difference | 
+| [494. Target Sum](./KnapSack_and_Variants/TargetSum.java) | LeetCode | Medium | Same as Partitions with given difference | 
+| [756. Pyramid Transition Matrix](./DP%20_On_Grids/PyramidTransitionMatrix.java) | LeetCode | Medium | Backtrack and Memoize the states |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
