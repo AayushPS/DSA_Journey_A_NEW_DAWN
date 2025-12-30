@@ -25,6 +25,7 @@ Prefix sum technique and cumulative computation patterns. This section covers:
 | [1590. Make Sum Divisible by P](./%20MakeSumDivisibleByP.java) | LeetCode | Medium |  remove the smallest contiguous subarray such that the sum of the remaining elements becomes divisible by p. |
 | [3652. Best Time to Buy and Sell Stock using Strategy](./BestTimeToBuyAndSellStockUsingStrategy.java) | LeetCode | Medium | Maximize profit from stock transactions with a strategy array by optionally modifying k consecutive days using prefix sum and sliding window. |
 | [2483. Minimum Penalty for a Shop](./MinimumPenaltyForAShop.java) | LeetCode | Medium | use aseperate prefix sum to gateher different infos | 
+| [840. Magic Squares In Grid](./MagicSquaresInGrid.java) | LeetCode | Medium | Use prefix sums for O(1) row and column sum calculation , Still need to check diagonals and distinct 1-9 validation |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
