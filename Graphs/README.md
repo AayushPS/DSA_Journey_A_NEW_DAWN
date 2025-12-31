@@ -20,6 +20,7 @@ Graph data structure and graph algorithms. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [2092. Find All People With Secret](./FindAllPeopleWithSecret.java) | LeetCode | Hard | Use DSU on grouped time based events | 
+| [1970. Last Day Where You Can Still Cross](./LastDayToCross.java) | LeetCode | Hard | Use DSU by thinking reverse by first putting everything and in graph and byuilding dsu when get connected. |
 
 ## Common Problems & Patterns
 - **DFS & BFS** - Graph traversal fundamentals
