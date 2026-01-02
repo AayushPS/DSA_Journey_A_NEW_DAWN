@@ -41,6 +41,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3606. Coupon Code Validator](./CouponCodeValidator.java) | LeetCode | Easy | sort and filter operations |
 | [3074. Apple Redistribution into Boxes](./AppleRedistributionIntoBoxes.java) | LeetCode | Easy | Sort and chhose greedily |
 | [3075. Maximize Happiness of Selected Children](./MaximizeHappinessOfSelectedChildren.java) | LeetCode | Medium | Sort and choose greedily |
+| [ 961. N-Repeated Element in Size 2N Array](./NRepeatedElement.java) | LeetCode | Easy | find repeated | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
