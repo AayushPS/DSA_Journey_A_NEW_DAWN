@@ -56,6 +56,7 @@ Dynamic programming optimization technique. This section covers:
 | [Partitions with Given Difference](./KnapSack_and_Variants/PartitionsWithGivenDifference.java) | GeeksForGeeks | Medium | Given an array of integers and a value diff, count the number of ways to partition the array into two subsets S1 and S2 such that: abs(sum(S1) − sum(S2)) = diff |
 | [494. Target Sum](./KnapSack_and_Variants/TargetSum.java) | LeetCode | Medium | Same as Partitions with given difference | 
 | [756. Pyramid Transition Matrix](./DP%20_On_Grids/PyramidTransitionMatrix.java) | LeetCode | Medium | Backtrack and Memoize the states |
+| [1411. Number of Ways to Paint N × 3 Grid](./DP%20_On_Grids/PaintGridWays.java) | LeetCode | Hard | Find the compressed dp states and then find pattern of those states and then use binary matrix exponentiation to shorten tasks |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
