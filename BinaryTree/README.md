@@ -23,6 +23,7 @@ Binary tree data structure and related algorithms. This section covers:
 |---------|----------|------------|----------|
 | [2872. Maximum Number of K-Divisible Components](./MaximumNumberOfKDivisibleComponents.java) | LeetCode | Hard | In an undirected tree, remove any set of edges such that every resulting connected component has a total node-value sum divisible by k. Return the maximum possible number of connected components. |
 | [1161. Maximum Level Sum of a Binary Tree](./MaxLevelSumBinaryTree.java) | LeetCode | Medium | Level Order Traversal to find sum of each level and obtain maximal sum level |
+| [1339. Maximum Product of Splitted Binary Tree](./MaxProductSplittedBinaryTree.java) | LeetCode | Medium | Every subtree's root stores its tree's sum and uses prefix idea to get maximum splitted product | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
