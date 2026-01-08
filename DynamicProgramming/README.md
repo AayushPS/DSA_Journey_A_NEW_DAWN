@@ -57,6 +57,7 @@ Dynamic programming optimization technique. This section covers:
 | [494. Target Sum](./KnapSack_and_Variants/TargetSum.java) | LeetCode | Medium | Same as Partitions with given difference | 
 | [756. Pyramid Transition Matrix](./DP%20_On_Grids/PyramidTransitionMatrix.java) | LeetCode | Medium | Backtrack and Memoize the states |
 | [1411. Number of Ways to Paint N × 3 Grid](./DP%20_On_Grids/PaintGridWays.java) | LeetCode | Hard | Find the compressed dp states and then find pattern of those states and then use binary matrix exponentiation to shorten tasks |
+| [1458. Max Dot Product of Two Subsequences](./Longest_Common_SubSequence_AND_VARIANTS/MaxDotProductSubsequences.java) | LeetCode | Hard | Find Common Subsequence that produces max sum of products of element of two arrays by choice diagram that chooses element from both or skips element at list 1 or skips element at list 2 |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
