@@ -23,7 +23,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [💡 Dynamic Programming](./DynamicProgramming) | Optimization using overlapping subproblems | 37 | ⭐⭐⭐ |
 | [💰 Greedy Algorithms](./Greedy) | Locally optimal choice algorithms | 5 | ⭐⭐ |
 | [🔢 Bit Manipulation](./BitManipulation) | Bitwise operations and optimizations | 2 | ⭐ |
-| [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 1 | ⭐⭐ |
+| [🪟 Sliding Window & Two Pointers](./SlidingWindow_TwoPointers) | Linear optimization techniques | 2 | ⭐⭐ |
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 6 | ⭐ |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 | ⭐⭐ |
 | [📝 Math](./Math) | Mathematical Challenges | 10 | ⭐⭐ |
@@ -35,9 +35,9 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 120 |
+| **Total Problems Solved** | 121 |
 | **Easy** | 23 |
-| **Medium** | 70 |
+| **Medium** | 71 |
 | **Hard** | 21 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 14/18 |

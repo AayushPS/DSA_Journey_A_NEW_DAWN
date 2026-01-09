@@ -21,6 +21,7 @@ Sliding window and two-pointer technique patterns. This section covers:
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [3234. Count the Number of Substrings With Dominant Ones](./CountSubstringsWithDominantOnes.java) | LeetCode | Medium | Return the number of substrings with dominant ones. dominant ones are when: (ones in substring) >= (zeros in substring)^2 |
+| [Count Subarray with K Odds](./CountSubarrayKOdds.java) | GeeksForGeeks | Medium | find subarrays with k odds by considering subarrays with subarrays that have odds less than k - subarrays that have odds less than k-1 |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
