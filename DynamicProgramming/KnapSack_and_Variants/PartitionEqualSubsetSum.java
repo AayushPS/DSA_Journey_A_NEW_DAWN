@@ -1,5 +1,3 @@
-package DynamicProgramming.KnapSack_and_Variants;
-
 /*
  🔹 Problem: 416. Partition Equal Subset Sum
  🔹 Platform: LeetCode

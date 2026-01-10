@@ -1,4 +1,3 @@
-package DynamicProgramming.KnapSack_and_Variants;
 /*
  🔹 Problem: Perfect Sum Problem
  🔹 Platform: GeeksForGeeks

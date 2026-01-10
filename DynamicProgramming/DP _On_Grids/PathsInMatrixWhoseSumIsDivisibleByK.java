@@ -234,6 +234,8 @@ class Solution {
  ------------------------------------------------------------
 */
 
+import java.util.Arrays;
+
 public class PathsInMatrixWhoseSumIsDivisibleByK {
     public int numberOfPaths(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;

@@ -211,6 +211,8 @@ Complexity:
  ------------------------------------------------------------
 */
 
+import java.util.Arrays;
+
 public class DungeonGame {
     public int calculateMinimumHP(int[][] dungeon) {
         int m = dungeon.length, n = dungeon[0].length;

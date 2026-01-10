@@ -194,9 +194,9 @@ class Solution {
  ------------------------------------------------------------
 */
 
-public class MaximumPathSum {
-    private static final int MAX = 400 * 200;
+import java.util.Arrays;
 
+public class MaximumPathSum {
     public int minPathSum(int[][] grid) {
         int m = grid.length, n = grid[0].length;
 

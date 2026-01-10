@@ -1,4 +1,3 @@
-package DynamicProgramming.KnapSack_and_Variants;
 /*
  🔹 Problem: Subset Sum Problem
  🔹 Platform: GFG

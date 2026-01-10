@@ -1,4 +1,3 @@
-package DynamicProgramming.KnapSack_and_Variants;
 /*
  🔹 Problem: 3562. Maximum Profit from Trading Stocks with Discounts
  🔹 Platform: LeetCode

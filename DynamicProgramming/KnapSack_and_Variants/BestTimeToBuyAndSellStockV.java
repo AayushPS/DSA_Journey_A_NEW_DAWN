@@ -1,4 +1,3 @@
-package DynamicProgramming.KnapSack_and_Variants;
 /*
  🔹 Problem: 3573. Best Time to Buy and Sell Stock V
  🔹 Platform: LeetCode
