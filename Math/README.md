@@ -48,6 +48,7 @@ This section focuses on math-based techniques essential for competitive programm
 | [2147. Number of Ways to Divide a Long Corridor](./NumberOfWaysToDivideALongCorridor.java) | LeetCode | Hard | Count the segments and then see the available partitions possible |
 | [2110. Number of Smooth Descent Periods of a Stock](./NumberOfSmoothDescentPeriodsOfAStock.java) | LeetCode | Medium | Count continuous decrement of value 1 in array |
 | [1390. Four Divisors](./FourDivisors.java) | LeetCode | Medium | Sum of divisors of integers who have only 4 divisors | 
+| [1266. Minimum Time Visiting All Points](./MinTimeVisitAllPoints.java) | LeetCode | Easy | use max(diff at both axis) to find shortest dist, usefull many places | 
 
 
 ## Implementation Notes
