@@ -42,6 +42,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3074. Apple Redistribution into Boxes](./AppleRedistributionIntoBoxes.java) | LeetCode | Easy | Sort and chhose greedily |
 | [3075. Maximize Happiness of Selected Children](./MaximizeHappinessOfSelectedChildren.java) | LeetCode | Medium | Sort and choose greedily |
 | [ 961. N-Repeated Element in Size 2N Array](./NRepeatedElement.java) | LeetCode | Easy | find repeated | 
+| [3453. Separate Squares I](./SeparateSquares.java) | LeetCode | Medium | sweep line over soted input to find a line y that partitions the areas by clculating the area under current line | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
