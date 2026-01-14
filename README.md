@@ -27,7 +27,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 6 | ⭐ |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 | ⭐⭐ |
 | [📝 Math](./Math) | Mathematical Challenges | 11 | ⭐⭐ |
-| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 1 | ⭐⭐ |
+| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 2 | ⭐⭐ |
 
 ## 📊 Progress Overview
 
@@ -35,10 +35,10 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 
 | Metric | Count |
 |:------:|:-----:|
-| **Total Problems Solved** | 125 |
+| **Total Problems Solved** | 126 |
 | **Easy** | 24 |
 | **Medium** | 74 |
-| **Hard** | 21 |
+| **Hard** | 22 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 14/18 |
 

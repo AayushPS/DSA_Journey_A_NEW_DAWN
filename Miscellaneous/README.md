@@ -21,6 +21,7 @@ Various algorithmic problems that don't fit into specific categories. This secti
 | Problem | Platform | Difficulty | Summary |
 |---------|----------|------------|----------|
 | [2169. Count Operations to Obtain Zero](./CountOperationsToObtainZero.java) | LeetCode | Easy | Count operations to make either num1 or num2 zero by repeatedly subtracting the smaller from the larger |
+| [3454. Separate Squares II](./SeparateSquaresII.java) | LeetCode | Very Hard | I don't know, just to complete potd |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
