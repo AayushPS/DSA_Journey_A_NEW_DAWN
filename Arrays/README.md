@@ -45,6 +45,7 @@ Arrays are one of the fundamental data structures in computer science. This sect
 | [3453. Separate Squares I](./SeparateSquares.java) | LeetCode | Medium | sweep line over soted input to find a line y that partitions the areas by clculating the area under current line | 
 | [2943. Maximize Area of Square Hole in Grid](./MaximizeSquareHoleArea.java) | LeetCode | Medium | Sort then find longest consequetive removals possible on both sides, the minimum of vertical and horizontal will be the answer |  
 | [2975. Maximum Square Area by Removing Fences From a Field](./MaximumSquareAreaFences.java) | LeetCode | Medium | Sort the arrays and find differences between every fence to find maximum square buildable | 
+| [3047. Find the Largest Area of Square Inside Two Rectangles](./LargestSquareTwoRectangles.java) | LeetCode | Medium | check all pairs via brute force then see if they intersect and then see what is maximum size square obtainable |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
