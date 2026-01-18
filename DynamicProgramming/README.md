@@ -60,6 +60,7 @@ Dynamic programming optimization technique. This section covers:
 | [1458. Max Dot Product of Two Subsequences](./Longest_Common_SubSequence_AND_VARIANTS/MaxDotProductSubsequences.java) | LeetCode | Hard | Find Common Subsequence that produces max sum of products of element of two arrays by choice diagram that chooses element from both or skips element at list 1 or skips element at list 2 |
 | [712. Minimum ASCII Delete Sum for Two Strings](./Longest_Common_SubSequence_AND_VARIANTS/MinimumASCIIDeleteSum.java) | LeetCode | Medium | Find Longest Common Subsequence on the basis of their ascii values and find the total ascii of both strings to find what amount of ascii will be deleted | 
 | [Rod Cutting](./KnapSack_and_Variants/RodCutting.java) | GeeksForGeeks | Medium | Use Unbounded knapsack to find otimal solution | 
+| [518. Coin Change II](./KnapSack_and_Variants/CoinChangeII.java) | Medium | USe Unbounded Knapsack and Count of Subset Sum logic then simplify code eventually |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
