@@ -26,6 +26,7 @@ Prefix sum technique and cumulative computation patterns. This section covers:
 | [3652. Best Time to Buy and Sell Stock using Strategy](./BestTimeToBuyAndSellStockUsingStrategy.java) | LeetCode | Medium | Maximize profit from stock transactions with a strategy array by optionally modifying k consecutive days using prefix sum and sliding window. |
 | [2483. Minimum Penalty for a Shop](./MinimumPenaltyForAShop.java) | LeetCode | Medium | use aseperate prefix sum to gateher different infos | 
 | [840. Magic Squares In Grid](./MagicSquaresInGrid.java) | LeetCode | Medium | Use prefix sums for O(1) row and column sum calculation , Still need to check diagonals and distinct 1-9 validation |
+| [1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold](./MaxSquareSumThreshold.java) | LeetCode | Medium | Use 2d prefix and search for each possible answer using binary search | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
