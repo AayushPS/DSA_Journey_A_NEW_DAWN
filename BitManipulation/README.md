@@ -13,6 +13,7 @@ Bitwise operations and bit-level programming techniques. This section covers:
 |---------|----------|------------|----------|
 | [717. 1-bit and 2-bit Characters](./OneBitAndTwoBitCharacters.java) | LeetCode | Easy | determine whether the last character must be a 1-bit character |
 | [1018. Binary Prefix Divisible By 5](./BinaryPrefixDivisibleBy5.java) | LeetCode | Easy | Define xi as the number represented by the binary prefix nums[0..i]. Return an array where answer[i] is true if xi is divisible by 5. |
+| [3315. Construct the Minimum Bitwise Array II](./ConstructMinimumBitwiseArray.java) | LeetCode | Medium | find first 1 from back and make it 0 |
 
 ## Common Problems & Patterns
 - **Single Number** - Finding unique elements using XOR
