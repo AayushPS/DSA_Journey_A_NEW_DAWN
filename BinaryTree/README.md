@@ -25,6 +25,7 @@ Binary tree data structure and related algorithms. This section covers:
 | [1161. Maximum Level Sum of a Binary Tree](./MaxLevelSumBinaryTree.java) | LeetCode | Medium | Level Order Traversal to find sum of each level and obtain maximal sum level |
 | [1339. Maximum Product of Splitted Binary Tree](./MaxProductSplittedBinaryTree.java) | LeetCode | Medium | Every subtree's root stores its tree's sum and uses prefix idea to get maximum splitted product | 
 | [1123. Lowest Common Ancestor of Deepest Leaves](./LCADeepestLeaves.java) | LeetCode | Medium | use pair that stores lca and its depth, and each node returns pair with max depth, but if both branches are giving same depth, then give pair that gives itself and depth|
+| [1026. Maximum Difference Between Node and Ancestor](./MaxDiffAncestor.java) | LeetCode | Medium | find min and max of subtree and evaluate for each subtree from root | 
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
