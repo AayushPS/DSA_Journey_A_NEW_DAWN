@@ -22,6 +22,7 @@ Various algorithmic problems that don't fit into specific categories. This secti
 |---------|----------|------------|----------|
 | [2169. Count Operations to Obtain Zero](./CountOperationsToObtainZero.java) | LeetCode | Easy | Count operations to make either num1 or num2 zero by repeatedly subtracting the smaller from the larger |
 | [3454. Separate Squares II](./SeparateSquaresII.java) | LeetCode | Very Hard | I don't know, just to complete potd |
+| [3510. Minimum Pair Removal to Sort Array II](./MinimumPairRemovalSort.java) | use TreeSet, ll logic in sync to determine what pair to remove witha counter to check if array is still unsorted or not |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:

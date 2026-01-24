@@ -16,7 +16,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [🔗 LinkedList](./LinkedList) | Node-based data structures and operations | 7 | ⭐⭐ |
 | [📚 Stacks & Queues](./Stacks_Queues) | LIFO and FIFO data structure implementations | 7 | ⭐⭐ |
 | [🔄 Recursion & Backtracking](./Recursion_Backtracking) | Recursive problem solving techniques | 0 | ⭐⭐⭐ |
-| [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 5 | ⭐⭐ |
+| [🌳 Binary Tree](./BinaryTree) | Tree traversal and manipulation algorithms | 6 | ⭐⭐ |
 | [🔍 Binary Search](./Binary%20Search/) | BS operations and validations | 2 | ⭐⭐ |
 | [⛰️ Heaps](./Heaps) | Priority queue and heap-based algorithms | 2 | ⭐⭐ |
 | [🌐 Graphs](./Graphs) | Graph algorithms and traversal techniques | 6 | ⭐⭐⭐ |
@@ -27,7 +27,7 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 | [📈 Prefix Sum](./PrefixSum) | Cumulative computation techniques | 7 | ⭐ |
 | [🎭 OOPs Design & Simulation](./OOPs_Design/Simulation) | Object-oriented design and system simulation | 1 | ⭐⭐ |
 | [📝 Math](./Math) | Mathematical Challenges | 11 | ⭐⭐ |
-| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 2 | ⭐⭐ |
+| [🎯 Miscellaneous](./Miscellaneous) | Mixed algorithmic challenges | 3 | ⭐⭐ |
 
 ## 📊 Progress Overview
 
@@ -37,8 +37,8 @@ A structured, comprehensive record of my **Data Structures & Algorithms** learni
 |:------:|:-----:|
 | **Total Problems Solved** | 134 |
 | **Easy** | 24 |
-| **Medium** | 82 |
-| **Hard** | 22 |
+| **Medium** | 83 |
+| **Hard** | 23 |
 | **Algorithm Implementations** | 4 |
 | **Topics Started** | 14/18 |
 

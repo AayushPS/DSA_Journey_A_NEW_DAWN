@@ -26,6 +26,7 @@ Binary tree data structure and related algorithms. This section covers:
 | [1339. Maximum Product of Splitted Binary Tree](./MaxProductSplittedBinaryTree.java) | LeetCode | Medium | Every subtree's root stores its tree's sum and uses prefix idea to get maximum splitted product | 
 | [1123. Lowest Common Ancestor of Deepest Leaves](./LCADeepestLeaves.java) | LeetCode | Medium | use pair that stores lca and its depth, and each node returns pair with max depth, but if both branches are giving same depth, then give pair that gives itself and depth|
 | [1026. Maximum Difference Between Node and Ancestor](./MaxDiffAncestor.java) | LeetCode | Medium | find min and max of subtree and evaluate for each subtree from root | 
+| [979. Distribute Coins in Binary Tree](./DistributeCoinsTree.java) | LeetCode | Medium | postorder to find need and excess/deficiet of each bracnch to evaluate |
 
 ## Implementation Notes
 Solutions are written in **Java** with clean, optimized implementations focusing on:
